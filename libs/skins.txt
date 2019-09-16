@@ -1,0 +1,2 @@
+	game_data_storage_DataStorage.skill.init(Reflect.field(data,"skill"));
+	game_data_storage_DataStorage.skin.init(Reflect.field(data,"skin"));
