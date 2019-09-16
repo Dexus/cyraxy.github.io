@@ -1,0 +1,16 @@
+<!--
+ Created with TexturePacker http://www.codeandweb.com/texturepacker
+-->
+<!--
+ $TexturePacker:SmartUpdate:49744339df4e38374ed51152b572cc9b:4ee8de4d796f6635cebc72eef942346b:755368993a9f68da44ff9ad895a20d9e$ 
+-->
+<TextureAtlas imagePath="tower_buff_icons.png" width="486" height="486">
+<SubTexture name="ATKicon" x="1" y="1" width="160" height="160"/>
+<SubTexture name="DEFicon" x="1" y="163" width="160" height="160"/>
+<SubTexture name="HEALicon" x="1" y="325" width="160" height="160"/>
+<SubTexture name="HEALteamicon" x="163" y="1" width="160" height="160"/>
+<SubTexture name="MAGDEFicon" x="325" y="1" width="160" height="160"/>
+<SubTexture name="RISEicon" x="163" y="163" width="160" height="160"/>
+<SubTexture name="ULTicon" x="163" y="325" width="160" height="160"/>
+<SubTexture name="ULTteamicon" x="325" y="163" width="160" height="160"/>
+</TextureAtlas>

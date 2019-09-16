@@ -1,0 +1,64 @@
+<!--
+ Created with TexturePacker http://www.codeandweb.com/texturepacker
+-->
+<!--
+ $TexturePacker:SmartUpdate:7ee14b7853fcf7896ba4791295df37aa:7eafa2ba11f3828fedb7e88ee9b460c0:b69a78c323db0e4c4395807a56466b7f$ 
+-->
+<TextureAtlas imagePath="creep_icons.png" width="984" height="410">
+<SubTexture name="1000" x="1" y="1" width="80" height="80"/>
+<SubTexture name="1001" x="83" y="1" width="80" height="80"/>
+<SubTexture name="1002" x="165" y="1" width="80" height="80"/>
+<SubTexture name="1003" x="247" y="1" width="80" height="80"/>
+<SubTexture name="1004" x="329" y="1" width="80" height="80"/>
+<SubTexture name="1005" x="411" y="1" width="80" height="80"/>
+<SubTexture name="1006" x="493" y="1" width="80" height="80"/>
+<SubTexture name="1010" x="575" y="1" width="80" height="80"/>
+<SubTexture name="1011" x="657" y="1" width="80" height="80"/>
+<SubTexture name="1012" x="739" y="1" width="80" height="80"/>
+<SubTexture name="1013" x="821" y="1" width="80" height="80"/>
+<SubTexture name="1014" x="903" y="1" width="80" height="80"/>
+<SubTexture name="1015" x="1" y="83" width="80" height="80"/>
+<SubTexture name="1016" x="83" y="83" width="80" height="80"/>
+<SubTexture name="1020" x="165" y="83" width="80" height="80"/>
+<SubTexture name="1021" x="247" y="83" width="80" height="80"/>
+<SubTexture name="1022" x="329" y="83" width="80" height="80"/>
+<SubTexture name="1023" x="411" y="83" width="80" height="80"/>
+<SubTexture name="1024" x="493" y="83" width="80" height="80"/>
+<SubTexture name="1025" x="575" y="83" width="80" height="80"/>
+<SubTexture name="1026" x="657" y="83" width="80" height="80"/>
+<SubTexture name="1030" x="739" y="83" width="80" height="80"/>
+<SubTexture name="1031" x="821" y="83" width="80" height="80"/>
+<SubTexture name="1032" x="903" y="83" width="80" height="80"/>
+<SubTexture name="1033" x="1" y="165" width="80" height="80"/>
+<SubTexture name="1034" x="83" y="165" width="80" height="80"/>
+<SubTexture name="1035" x="165" y="165" width="80" height="80"/>
+<SubTexture name="1036" x="247" y="165" width="80" height="80"/>
+<SubTexture name="1040" x="329" y="165" width="80" height="80"/>
+<SubTexture name="1041" x="411" y="165" width="80" height="80"/>
+<SubTexture name="1042" x="493" y="165" width="80" height="80"/>
+<SubTexture name="1043" x="575" y="165" width="80" height="80"/>
+<SubTexture name="1044" x="657" y="165" width="80" height="80"/>
+<SubTexture name="1045" x="739" y="165" width="80" height="80"/>
+<SubTexture name="1046" x="821" y="165" width="80" height="80"/>
+<SubTexture name="1050" x="903" y="165" width="80" height="80"/>
+<SubTexture name="1051" x="1" y="247" width="80" height="80"/>
+<SubTexture name="1052" x="83" y="247" width="80" height="80"/>
+<SubTexture name="1053" x="165" y="247" width="80" height="80"/>
+<SubTexture name="1054" x="247" y="247" width="80" height="80"/>
+<SubTexture name="1055" x="329" y="247" width="80" height="80"/>
+<SubTexture name="1056" x="411" y="247" width="80" height="80"/>
+<SubTexture name="1057" x="493" y="247" width="80" height="80"/>
+<SubTexture name="1061" x="575" y="247" width="80" height="80"/>
+<SubTexture name="1062" x="657" y="247" width="80" height="80"/>
+<SubTexture name="1063" x="739" y="247" width="80" height="80"/>
+<SubTexture name="1064" x="821" y="247" width="80" height="80"/>
+<SubTexture name="1065" x="903" y="247" width="80" height="80"/>
+<SubTexture name="1066" x="1" y="329" width="80" height="80"/>
+<SubTexture name="1067" x="83" y="329" width="80" height="80"/>
+<SubTexture name="1068" x="165" y="329" width="80" height="80"/>
+<SubTexture name="1069" x="247" y="329" width="80" height="80"/>
+<SubTexture name="1070" x="329" y="329" width="80" height="80"/>
+<SubTexture name="2000" x="411" y="329" width="80" height="80"/>
+<SubTexture name="2001" x="493" y="329" width="80" height="80"/>
+<SubTexture name="2002" x="575" y="329" width="80" height="80"/>
+</TextureAtlas>

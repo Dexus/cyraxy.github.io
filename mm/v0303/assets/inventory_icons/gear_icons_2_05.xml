@@ -1,0 +1,31 @@
+<!--
+ Created with TexturePacker http://www.codeandweb.com/texturepacker
+-->
+<!--
+ $TexturePacker:SmartUpdate:c6e4ba1920655495b54cf1fe91da0a66:8c394127098185652e6846e7484653f5:9b577ff4af908d24a669635ac03f86bc$ 
+-->
+<TextureAtlas imagePath="gear_icons_2_05.png" width="446" height="298">
+<SubTexture name="gear_221" x="2" y="2" width="72" height="72"/>
+<SubTexture name="gear_222" x="76" y="2" width="72" height="72"/>
+<SubTexture name="gear_223" x="150" y="2" width="72" height="72"/>
+<SubTexture name="gear_224" x="224" y="2" width="72" height="72"/>
+<SubTexture name="gear_225" x="298" y="2" width="72" height="72"/>
+<SubTexture name="gear_226" x="372" y="2" width="72" height="72"/>
+<SubTexture name="gear_227" x="2" y="76" width="72" height="72"/>
+<SubTexture name="gear_228" x="76" y="76" width="72" height="72"/>
+<SubTexture name="gear_229" x="150" y="76" width="72" height="72"/>
+<SubTexture name="gear_230" x="224" y="76" width="72" height="72"/>
+<SubTexture name="gear_231" x="298" y="76" width="72" height="72"/>
+<SubTexture name="gear_232" x="372" y="76" width="72" height="72"/>
+<SubTexture name="gear_233" x="2" y="150" width="72" height="72"/>
+<SubTexture name="gear_234" x="76" y="150" width="72" height="72"/>
+<SubTexture name="gear_235" x="150" y="150" width="72" height="72"/>
+<SubTexture name="gear_236" x="224" y="150" width="72" height="72"/>
+<SubTexture name="gear_237" x="298" y="150" width="72" height="72"/>
+<SubTexture name="gear_238" x="372" y="150" width="72" height="72"/>
+<SubTexture name="gear_239" x="2" y="224" width="72" height="72"/>
+<SubTexture name="gear_240" x="76" y="224" width="72" height="72"/>
+<SubTexture name="gear_241" x="150" y="224" width="72" height="72"/>
+<SubTexture name="gear_242" x="224" y="224" width="72" height="72"/>
+<SubTexture name="gear_243" x="298" y="224" width="72" height="72"/>
+</TextureAtlas>

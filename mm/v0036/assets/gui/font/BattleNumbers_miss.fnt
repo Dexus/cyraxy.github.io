@@ -1,0 +1,16 @@
+<font>
+  <info face="BattleNumbers_miss" size="16" bold="0" italic="0" charset="" unicode="" stretchH="100" smooth="1" aa="1" padding="1,1,1,1" spacing="0,0" outline="0"/>
+  <common lineHeight="15" base="13" scaleW="89" scaleH="20" pages="1" packed="0"/>
+  <pages>
+    <page id="0" file="BattleNumbers_miss.png"/>
+  </pages>
+  <chars count="6">
+    <char id="109" x="1" y="1" width="18" height="14" xoffset="-2" yoffset="4" xadvance="14" page="0" chnl="15"/>
+    <char id="105" x="20" y="1" width="10" height="18" xoffset="-3" yoffset="0" xadvance="6" page="0" chnl="15"/>
+    <char id="115" x="31" y="1" width="11" height="15" xoffset="-2" yoffset="4" xadvance="9" page="0" chnl="15"/>
+    <char id="1084" x="43" y="1" width="15" height="14" xoffset="-2" yoffset="4" xadvance="12" page="0" chnl="15"/>
+    <char id="1080" x="59" y="1" width="14" height="14" xoffset="-2" yoffset="4" xadvance="10" page="0" chnl="15"/>
+    <char id="1086" x="74" y="1" width="14" height="15" xoffset="-2" yoffset="4" xadvance="10" page="0" chnl="15"/>
+    <char id="32" x="0" y="0" width="0" height="0" xoffset="-2" yoffset="4" xadvance="5" page="0" chnl="15"/>
+  </chars>
+</font>

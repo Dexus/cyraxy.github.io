@@ -1,0 +1,67 @@
+<!--
+ Created with TexturePacker http://www.codeandweb.com/texturepacker
+-->
+<!--
+ $TexturePacker:SmartUpdate:d6086b2c42059bf0af23933e6e25b3d1:9414e2cbe6b89059c5f3321368e5557f:6770b5e750995c8dec9fe1d4bb182182$ 
+-->
+<TextureAtlas imagePath="scroll_icons.png" width="444" height="740">
+<SubTexture name="scroll_21" x="297" y="297" width="72" height="72"/>
+<SubTexture name="scroll_24" x="297" y="445" width="72" height="72"/>
+<SubTexture name="scroll_46" x="223" y="519" width="72" height="72"/>
+<SubTexture name="scroll_48" x="297" y="519" width="72" height="72"/>
+<SubTexture name="scroll_50" x="371" y="519" width="72" height="72"/>
+<SubTexture name="scroll_63" x="1" y="593" width="72" height="72"/>
+<SubTexture name="scroll_73" x="75" y="593" width="72" height="72"/>
+<SubTexture name="scroll_74" x="149" y="593" width="72" height="72"/>
+<SubTexture name="scroll_83" x="223" y="593" width="72" height="72"/>
+<SubTexture name="scroll_85" x="297" y="593" width="72" height="72"/>
+<SubTexture name="scroll_88" x="371" y="593" width="72" height="72"/>
+<SubTexture name="scroll_92" x="1" y="667" width="72" height="72"/>
+<SubTexture name="scroll_94" x="75" y="667" width="72" height="72"/>
+<SubTexture name="scroll_95" x="149" y="667" width="72" height="72"/>
+<SubTexture name="scroll_98" x="223" y="667" width="72" height="72"/>
+<SubTexture name="scroll_99" x="297" y="667" width="72" height="72"/>
+<SubTexture name="scroll_104" x="1" y="1" width="72" height="72"/>
+<SubTexture name="scroll_105" x="75" y="1" width="72" height="72"/>
+<SubTexture name="scroll_107" x="149" y="1" width="72" height="72"/>
+<SubTexture name="scroll_109" x="223" y="1" width="72" height="72"/>
+<SubTexture name="scroll_110" x="297" y="1" width="72" height="72"/>
+<SubTexture name="scroll_114" x="371" y="1" width="72" height="72"/>
+<SubTexture name="scroll_127" x="1" y="75" width="72" height="72"/>
+<SubTexture name="scroll_128" x="75" y="75" width="72" height="72"/>
+<SubTexture name="scroll_130" x="149" y="75" width="72" height="72"/>
+<SubTexture name="scroll_131" x="223" y="75" width="72" height="72"/>
+<SubTexture name="scroll_178" x="297" y="75" width="72" height="72"/>
+<SubTexture name="scroll_179" x="371" y="75" width="72" height="72"/>
+<SubTexture name="scroll_180" x="1" y="149" width="72" height="72"/>
+<SubTexture name="scroll_181" x="75" y="149" width="72" height="72"/>
+<SubTexture name="scroll_182" x="149" y="149" width="72" height="72"/>
+<SubTexture name="scroll_183" x="223" y="149" width="72" height="72"/>
+<SubTexture name="scroll_184" x="297" y="149" width="72" height="72"/>
+<SubTexture name="scroll_185" x="371" y="149" width="72" height="72"/>
+<SubTexture name="scroll_186" x="1" y="223" width="72" height="72"/>
+<SubTexture name="scroll_187" x="75" y="223" width="72" height="72"/>
+<SubTexture name="scroll_188" x="149" y="223" width="72" height="72"/>
+<SubTexture name="scroll_189" x="223" y="223" width="72" height="72"/>
+<SubTexture name="scroll_201" x="297" y="223" width="72" height="72"/>
+<SubTexture name="scroll_202" x="371" y="223" width="72" height="72"/>
+<SubTexture name="scroll_203" x="1" y="297" width="72" height="72"/>
+<SubTexture name="scroll_207" x="75" y="297" width="72" height="72"/>
+<SubTexture name="scroll_208" x="149" y="297" width="72" height="72"/>
+<SubTexture name="scroll_209" x="223" y="297" width="72" height="72"/>
+<SubTexture name="scroll_210" x="371" y="297" width="72" height="72"/>
+<SubTexture name="scroll_211" x="1" y="371" width="72" height="72"/>
+<SubTexture name="scroll_212" x="75" y="371" width="72" height="72"/>
+<SubTexture name="scroll_213" x="149" y="371" width="72" height="72"/>
+<SubTexture name="scroll_233" x="223" y="371" width="72" height="72"/>
+<SubTexture name="scroll_234" x="297" y="371" width="72" height="72"/>
+<SubTexture name="scroll_235" x="371" y="371" width="72" height="72"/>
+<SubTexture name="scroll_236" x="1" y="445" width="72" height="72"/>
+<SubTexture name="scroll_237" x="75" y="445" width="72" height="72"/>
+<SubTexture name="scroll_238" x="149" y="445" width="72" height="72"/>
+<SubTexture name="scroll_239" x="223" y="445" width="72" height="72"/>
+<SubTexture name="scroll_240" x="371" y="445" width="72" height="72"/>
+<SubTexture name="scroll_241" x="1" y="519" width="72" height="72"/>
+<SubTexture name="scroll_242" x="75" y="519" width="72" height="72"/>
+<SubTexture name="scroll_243" x="149" y="519" width="72" height="72"/>
+</TextureAtlas>
