@@ -1,0 +1,55 @@
+#tab1, #tab2, #tab3{
+	width:175px;
+	height:50px;
+		display:block;
+padding: 5px 10px;
+float:left;
+list-style-type:none;
+	border-radius: 10px 10px 0 0;
+color:black;
+	font-weight:900;
+	font-size:20px;
+	background:url(tabb.jpg);
+	margin-left:3px;
+	box-shadow: 5px 5px 10px black;
+}
+
+a{
+	text-decoration:none;
+}
+
+.tabs a:visited{
+color:black;	
+}
+
+.tabs a{
+color:black;	
+}
+
+.tabs{
+	margin-top:10px;
+	margin-left:25px;
+}
+
+
+.tab_active{
+		border-right: 5px solid black;
+	border-left: 5px solid black;
+	border-top: 5px solid gray;
+	font-weight:900;
+	font-size:21px;
+	background:white;
+			box-shadow: 0 0 15px orange;
+			border-bottom-width:50px;
+			border-bottom:1px solid gray;
+	
+}
+.tab_noactive::after{
+	border-bottom:5px solid black;
+}
+
+
+
+#tab1_active, #tab2_active, #tab3_active{
+	color:white;
+}
