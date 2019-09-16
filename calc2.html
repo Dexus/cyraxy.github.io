@@ -1,0 +1,39 @@
+<html>
+<head>
+<meta charset= "utf-8">
+<title>Калькулятор</title>
+    <link href="calc.css" rel="stylesheet">
+</head>
+<body>
+
+
+<input type="text"id="oneinput">
+<span id="znak">+</span>
+<input type="text"id="twoinput">
+<span>=</span>
+<input type="text" value="0" id="otvet">
+
+<div class="buttons">
+<button id="plus" onclick="pluss()">+</button>
+<button id="minus" onclick="minuss()">-</button>
+<button id="umnoz"onclick="umnozz()"> *</button>
+<button id="delenie" onclick="deleniee()"> /</button>
+</div>
+
+<div>
+<button onclick="sinn()">sin</button>
+<button onclick="coss()">cos</button>
+<button onclick="tann()"> tan</button>
+<button  onclick="ctann()"> ctg</button>
+
+</div>
+
+<div>
+<button id="ravno" onclick="ravno()">=</button>
+</div>
+<script  src="jquery.js"> </script>
+<script  src="calc.js"> </script>
+</body>
+
+
+</html>

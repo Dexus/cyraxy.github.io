@@ -1,0 +1,23 @@
+{
+  "id": "2764331652",
+  "name": "Михаил",
+  "lastLoginTime": "1565538611",
+  "serverId": "5",
+  "level": "86",
+  "clanId": "2582",
+  "clanRole": "3",
+  "avatarId": "30",
+  "isChatModerator": false,
+  "frameId": 2,
+  "leagueId": 2,
+  "allowPm": "all",
+  "clanTitle": "Аркона",
+  "clanIcon": {
+    "flagColor1": 2,
+    "flagColor2": 2,
+    "flagShape": 2,
+    "iconColor": 3,
+    "iconShape": 46
+  },
+  "pushUserId": 761790
+}

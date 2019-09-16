@@ -1,0 +1,625 @@
+{
+  "date": 1553804338.734861,
+  "results": [
+    {
+      "ident": "body",
+      "result": {
+        "response": {
+          "battle": {
+            "userId": "761790",
+            "typeId": "761790",
+            "attackers": {
+              "35": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "353": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "352": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "351": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "309": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              }
+            },
+            "defenders": [
+              {
+                             "35": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "353": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "352": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "351": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              },
+			  "309": {
+                "id": 41,
+                "xp": 347249,
+                "level": 70,
+                "color": 9,
+                "slots": {
+                  "0": 0,
+                  "1": 0,
+                  "2": 0
+                },
+                "skills": {
+                  "205": 70,
+                  "206": 69,
+                  "207": 69,
+                  "208": 69
+                },
+                "power": 17902,
+                "star": 6,
+                "runes": [
+                  200,
+                  1820,
+                  1420,
+                  2440,
+                  0
+                ],
+                "skins": {
+                  "48": 4
+                },
+                "currentSkin": 48,
+                "titanGiftLevel": 10,
+                "titanCoinsSpent": {
+                  "consumable": {
+                    "24": 5750
+                  }
+                },
+                "artifacts": [
+                  {
+                    "level": 1,
+                    "star": 0
+                  },
+                  {
+                    "level": 9,
+                    "star": 2
+                  },
+                  {
+                    "level": 20,
+                    "star": 1
+                  }
+                ],
+                "scale": 2,
+                "agility": 802,
+                "hp": 16095,
+                "intelligence": 1119,
+                "physicalAttack": 50,
+                "strength": 1640,
+                "armor": 900.4,
+                "magicPower": 1252,
+                "magicResist": 1303.4
+              }
+                
+                
+              }
+            ],
+            "effects": [],
+            "reward": [],
+            "startTime": 1553804338,
+            "seed": 3013982114,
+            "type": "challenge",
+            "id": "1553804338725454871",
+            "progress": [],
+            "result": {
+              "serverVersion": 153
+            },
+            "endTime": 1553804338
+          }
+        }
+      }
+    }
+  ]
+}

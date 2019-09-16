@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+
+<html>
+<meta charset= "utf-8">
+<title>Гостевая</title>
+<link rel="stylesheet" href="guest.css">
+<link rel="stylesheet" href="newsite.css">
+</head>
+<body>
+<div id="page">
+<div id="navigation-block">
+<div id="navigation">
+<ul >
+<li > <a href="index.html">Главная</a></li>
+<li ><a href="Forum.html">Форум</a></li>
+<li ><a href="Guest.html">Гостевая</a></li>
+<li><a href="meindex.html">Другой стиль</a></li>
+</ul>
+<ul>
+<li class="registration" ><a href="calc2.html">Калькулятор</a></li>
+
+</ul>
+</div>
+</div>
+
+<div id="shapka" class="img1" >
+
+
+<div class="button-slider1">
+
+<a onclick="back()" href="#" class="button-slider-left"></a>
+</div>
+
+
+<div class="button-slider2">
+<a href="#" onclick="forward()" class="button-slider-right"></a>
+</div>
+
+
+<div class="radio-buttons"> 
+<!--<input type="radio" name="r" value="1" onclick="foo(this)">
+<input type="radio" name="r" value="2" onclick="foo(this)">
+<input type="radio" name="r" value="3" onclick="foo(this)">-->
+<input type="radio" name="r" id="check1" value="1" onclick="foo(this); checkk()">
+<input type="radio" name="r" id="check2" value="2" onclick="foo(this); checkk()">
+<input type="radio" name="r" id="check3" value="3" onclick="foo(this); checkk()">
+</div>
+
+
+</div>
+
+<div id="content">
+<div id="right-panel">
+<p align="center" class="zagolovok" >Вход</p>
+<form action="#" method="post" onsubmit="return checkForm(this)">
+<p class="vvod" align="center"><label for="EnterLogin">Логин:<br><input type="text" name="login" id="EnterLogin" placeholder="Введите логин"></p>
+
+<p class="vvod" align="center"><label for="EnterPassword">Пароль:</br></label><input type="password" name="password" id="EnterPassword" placeholder="Введите пароль"></p>
+<p class="enter" align="center"><input type="submit" name="submit" value="Войти!"> </p>
+</form>
+
+
+</div>
+
+
+
+<div id="Posts">
+<a href="#" id="hide"  onclick="return false">Скрыть комментарии </a>
+<a href="#" id="show"style="display:none"  onclick="return false">Показать комментарии </a>
+
+<div id="Post">
+<div id="Post-data">
+<ul >
+<li>Комментарий №1</li>
+<li> <a href="user">Ru4slan</a></li>
+<li>19.08.2016</li>
+<li>11:57</li>
+</ul>
+</div>
+<div id="Post-text">
+<p class="osn"> dasdad</p>
+<p class="coment"> <a href="#">Ответить </a> </p>
+
+</div>
+
+
+<div id="Post-data">
+<ul >
+<li>Комментарий №2</li>
+<li> <a href="user">Ru4slan</a></li>
+<li>20.08.2016</li>
+<li>22:14</li>
+</ul>
+</div>
+<div id="Post-text">
+<p class="osn">Обновление дизайна.</p>
+<p class="coment"> <a href="#">Ответить </a> </p>
+</div>
+
+
+
+<div id="Post-data">
+<ul >
+<li>Комментарий №3</li>
+<li> <a href="user">Ru4slan</a></li>
+<li>21.08.2016</li>
+<li>22:19</li>
+</ul>
+</div>
+<div id="Post-text">
+<p class="osn">Обновление дизайна №2.</p>
+<p class="coment"> <a href="#">Ответить </a> </p>
+</div>
+</div>
+
+
+<div id="commentaries">
+<form name="form" id="form" method="POST" style="display:none" onsubmit="return false">
+<p>Оставить комментарий</p>
+<label for="EnterLogin">Ваше имя:</label><input type="text" name="login" id="EnterLogin" placeholder="Введите ваше имя">
+<br>
+<input type="checkbox" value="1">Согласен с условиями пользовательского соглашения
+<textarea id="textarea" name="comment" cols="60%" rows="10">
+
+</textarea>
+<br>
+<input type="submit" name="send" value="Добавить комментарий" id="done">
+</form>
+<a href="#" onclick="return false" id="add_comment">Добавить комментарий </a>
+</div>
+
+<!--
+<input type="text" name="length" id="length" placeholder="Длина">
+<input type="text" name="width" id="width" placeholder="Ширина">
+<input type="text" name="height" id="height" placeholder="Высота">
+<input type="button" id="calculate" onclick="displayResult()" value="Расчитать объём">
+<hr>
+<p>Результат:</p>
+<p id="result">
+<hr>
+<p id="vivod"> </p>
+<hr>
+<p id="paragraph">вфвфывфЮ</p>
+<button onclick="myFunction()">ФВфввфывф</button>
+-->
+</div>
+</div>
+
+
+
+<div id="footer">
+Этот сайт создал Руслан Капцов.
+This site created by Ruslan Kaptsov.
+
+</div>
+
+
+
+</div>
+
+
+<script src="index.js"> </script>
+<script src="jquery.js"> </script>
+<script src="jQuery_practice.js"> </script>
+
+
+</body>
+</html>

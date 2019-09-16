@@ -1,0 +1,358 @@
+{
+  "date": 1555266094.974246,
+  "results": [
+    {
+      "ident": "group_0_body",
+      "result": {
+        "response": [
+          true
+        ]
+      }
+    },
+    {
+      "ident": "group_1_body",
+      "result": {
+        "response": {
+          "battle": {
+            "userId": "761790",
+            "typeId": "761790",
+            "attackers": {
+              "4020": {
+                "id": 4013,
+                "xp": 686760,
+                "level": 120,
+                "star": 6,
+                "skills": {
+                  "4019": 120
+                },
+                "power": 165127,
+                "artifacts": [
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  }
+                ],
+                "scale": 0.8,
+                "anticrit": 1,
+                "antidodge": 1,
+                "hp": 15749897.059999999,
+                "physicalAttack": 402414.82,
+                "elementAttack": 422565,
+                "elementArmor": 89982,
+                "elementSpiritPower": 6750000,
+                "element": "fire",
+                "elementSpiritLevel": 120,
+                "elementSpiritStar": 6
+              },
+              "4021": {
+                "id": 4013,
+                "xp": 686760,
+                "level": 120,
+                "star": 6,
+                "skills": {
+                  "4021": 120
+                },
+                "power": 165060,
+                "artifacts": [
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  }
+                ],
+                "scale": 0.8,
+                "anticrit": 1,
+                "antidodge": 1,
+                "hp": 11444600.73,
+                "physicalAttack": 724326.1799999999,
+                "elementAttack": 422565,
+                "elementArmor": 89982,
+                "elementSpiritPower": 6750000,
+                "element": "fire",
+                "elementSpiritLevel": 120,
+                "elementSpiritStar": 6
+              },
+              "4022": {
+                "id": 4022,
+                "xp": 686760,
+                "level": 120,
+                "star": 6,
+                "skills": {
+                  "4023": 120
+                },
+                "power": 165096,
+                "artifacts": [
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  }
+                ],
+                "scale": 0.8,
+                "anticrit": 1,
+                "antidodge": 1,
+                "hp": 13369863.86,
+                "physicalAttack": 580457.44,
+                "elementAttack": 422565,
+                "elementArmor": 89982,
+                "elementSpiritPower": 6750000,
+                "element": "earth",
+                "elementSpiritLevel": 120,
+                "elementSpiritStar": 6
+              },
+              "4023": {
+                "id": 4023,
+                "xp": 686760,
+                "level": 120,
+                "star": 6,
+                "skills": {
+                  "4025": 120,
+                  "4026": 120
+                },
+                "power": 165118,
+                "artifacts": [
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  },
+                  {
+                    "level": 120,
+                    "star": 6
+                  }
+                ],
+                "scale": 0.8,
+                "anticrit": 1,
+                "antidodge": 1,
+                "hp": 13620313.35,
+                "physicalAttack": 562001.97,
+                "elementAttack": 422565,
+                "elementArmor": 89982,
+                "elementSpiritPower": 6750000,
+                "element": "earth",
+                "elementSpiritLevel": 120,
+                "elementSpiritStar": 6
+              }
+            },
+            "defenders": [
+              {
+                "4012": {
+                  "id": 4012,
+                  "xp": 686760,
+                  "level": 120,
+                  "star": 6,
+                  "skills": {
+                    "4014": 120
+                  },
+                  "power": 165095,
+                  "artifacts": [
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    }
+                  ],
+                  "scale": 0.8,
+                  "anticrit": 1,
+                  "antidodge": 1,
+                  "hp": 7739452.24,
+                  "physicalAttack": 1002736.79,
+                  "elementAttack": 422565,
+                  "elementArmor": 89982,
+                  "elementSpiritPower": 1462500,
+                  "element": "fire",
+                  "elementSpiritLevel": 120,
+                  "elementSpiritStar": 6
+                },
+                "4020": {
+                  "id": 4020,
+                  "xp": 686760,
+                  "level": 120,
+                  "star": 6,
+                  "skills": {
+                    "4019": 120
+                  },
+                  "power": 165127,
+                  "artifacts": [
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    }
+                  ],
+                  "scale": 0.8,
+                  "anticrit": 1,
+                  "antidodge": 1,
+                  "hp": 15749897.059999999,
+                  "physicalAttack": 402414.82,
+                  "elementAttack": 422565,
+                  "elementArmor": 89982,
+                  "elementSpiritPower": 6750000,
+                  "element": "earth",
+                  "elementSpiritLevel": 120,
+                  "elementSpiritStar": 6
+                },
+                "4021": {
+                  "id": 4021,
+                  "xp": 686760,
+                  "level": 120,
+                  "star": 6,
+                  "skills": {
+                    "4021": 120
+                  },
+                  "power": 165060,
+                  "artifacts": [
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    }
+                  ],
+                  "scale": 0.8,
+                  "anticrit": 1,
+                  "antidodge": 1,
+                  "hp": 11444600.73,
+                  "physicalAttack": 724326.1799999999,
+                  "elementAttack": 422565,
+                  "elementArmor": 89982,
+                  "elementSpiritPower": 6750000,
+                  "element": "earth",
+                  "elementSpiritLevel": 120,
+                  "elementSpiritStar": 6
+                },
+                "4022": {
+                  "id": 4022,
+                  "xp": 686760,
+                  "level": 120,
+                  "star": 6,
+                  "skills": {
+                    "4023": 120
+                  },
+                  "power": 165096,
+                  "artifacts": [
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    }
+                  ],
+                  "scale": 0.8,
+                  "anticrit": 1,
+                  "antidodge": 1,
+                  "hp": 13369863.86,
+                  "physicalAttack": 580457.44,
+                  "elementAttack": 422565,
+                  "elementArmor": 89982,
+                  "elementSpiritPower": 6750000,
+                  "element": "earth",
+                  "elementSpiritLevel": 120,
+                  "elementSpiritStar": 6
+                },
+                "4023": {
+                  "id": 4023,
+                  "xp": 686760,
+                  "level": 120,
+                  "star": 6,
+                  "skills": {
+                    "4025": 120,
+                    "4026": 120
+                  },
+                  "power": 165118,
+                  "artifacts": [
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    },
+                    {
+                      "level": 120,
+                      "star": 6
+                    }
+                  ],
+                  "scale": 0.8,
+                  "anticrit": 1,
+                  "antidodge": 1,
+                  "hp": 13620313.35,
+                  "physicalAttack": 562001.97,
+                  "elementAttack": 422565,
+                  "elementArmor": 89982,
+                  "elementSpiritPower": 6750000,
+                  "element": "earth",
+                  "elementSpiritLevel": 120,
+                  "elementSpiritStar": 6
+                }
+              }
+            ],
+            "effects": [],
+            "reward": [],
+            "startTime": 1555266094,
+            "seed": 688308264,
+            "type": "challenge",
+            "id": "1555266094964507309",
+            "progress": [],
+            "result": {
+              "serverVersion": 155
+            },
+            "endTime": 1555266094
+          }
+        }
+      }
+    }
+  ]
+}
