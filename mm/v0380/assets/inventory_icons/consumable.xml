@@ -1,0 +1,68 @@
+<!--
+ Created with TexturePacker http://www.codeandweb.com/texturepacker
+-->
+<!--
+ $TexturePacker:SmartUpdate:f3b17cd6696c4ba520f5e19608e6575a:661ad17ee7e9d77a5b65f96cf9c4475e:a73888ebefe7fe136baf37fdf51fd652$ 
+-->
+<TextureAtlas imagePath="consumable.png" width="446" height="742">
+<SubTexture name="8march2" x="2" y="2" width="72" height="72"/>
+<SubTexture name="artef_box_1" x="150" y="150" width="72" height="72"/>
+<SubTexture name="artef_box_2" x="224" y="150" width="72" height="72"/>
+<SubTexture name="artef_box_3" x="298" y="150" width="72" height="72"/>
+<SubTexture name="BoxyChest" x="76" y="2" width="72" height="72"/>
+<SubTexture name="bronze_box" x="372" y="150" width="72" height="72"/>
+<SubTexture name="cash1" x="2" y="224" width="72" height="72"/>
+<SubTexture name="cash2" x="76" y="224" width="72" height="72"/>
+<SubTexture name="cash3" x="150" y="224" width="72" height="72"/>
+<SubTexture name="cash4" x="224" y="224" width="72" height="72"/>
+<SubTexture name="chaos_core_01" x="298" y="224" width="72" height="72"/>
+<SubTexture name="chest_hell" x="372" y="224" width="72" height="72"/>
+<SubTexture name="egg_easter" x="2" y="298" width="72" height="72"/>
+<SubTexture name="energy_bottle" x="76" y="298" width="72" height="72"/>
+<SubTexture name="essence_01" x="150" y="298" width="72" height="72"/>
+<SubTexture name="essence_02" x="224" y="298" width="72" height="72"/>
+<SubTexture name="essence_03" x="298" y="298" width="72" height="72"/>
+<SubTexture name="essence_04" x="372" y="298" width="72" height="72"/>
+<SubTexture name="essence_05" x="2" y="372" width="72" height="72"/>
+<SubTexture name="essence_06" x="76" y="372" width="72" height="72"/>
+<SubTexture name="golden_galahad" x="150" y="372" width="72" height="72"/>
+<SubTexture name="hero_100_chest" x="224" y="372" width="72" height="72"/>
+<SubTexture name="Icon_Ranger" x="150" y="2" width="72" height="72"/>
+<SubTexture name="Icon_Support" x="224" y="2" width="72" height="72"/>
+<SubTexture name="Icon_Tank" x="298" y="2" width="72" height="72"/>
+<SubTexture name="iconZapredelieChest1b" x="298" y="372" width="72" height="72"/>
+<SubTexture name="Karta_Taro160" x="372" y="2" width="72" height="72"/>
+<SubTexture name="key" x="372" y="372" width="72" height="72"/>
+<SubTexture name="KnowledgeBox3" x="2" y="76" width="72" height="72"/>
+<SubTexture name="love_box" x="2" y="446" width="72" height="72"/>
+<SubTexture name="metall_01" x="76" y="446" width="72" height="72"/>
+<SubTexture name="metall_02" x="150" y="446" width="72" height="72"/>
+<SubTexture name="metall_03" x="224" y="446" width="72" height="72"/>
+<SubTexture name="metall_04" x="298" y="446" width="72" height="72"/>
+<SubTexture name="metall_05" x="372" y="446" width="72" height="72"/>
+<SubTexture name="ok_box" x="2" y="520" width="72" height="72"/>
+<SubTexture name="roll_01" x="76" y="520" width="72" height="72"/>
+<SubTexture name="roll_02" x="150" y="520" width="72" height="72"/>
+<SubTexture name="roll_03" x="224" y="520" width="72" height="72"/>
+<SubTexture name="roll_04" x="298" y="520" width="72" height="72"/>
+<SubTexture name="roll_05" x="372" y="520" width="72" height="72"/>
+<SubTexture name="rune1" x="2" y="594" width="72" height="72"/>
+<SubTexture name="rune2" x="76" y="594" width="72" height="72"/>
+<SubTexture name="rune3" x="150" y="594" width="72" height="72"/>
+<SubTexture name="rune4" x="224" y="594" width="72" height="72"/>
+<SubTexture name="silver_box_1" x="298" y="594" width="72" height="72"/>
+<SubTexture name="ticket" x="372" y="594" width="72" height="72"/>
+<SubTexture name="Titan_amulet_chest2" x="150" y="76" width="72" height="72"/>
+<SubTexture name="Titan_crown_chest2" x="224" y="76" width="72" height="72"/>
+<SubTexture name="TitanChest_grand" x="76" y="76" width="72" height="72"/>
+<SubTexture name="totem_sphere_gold" x="2" y="668" width="72" height="72"/>
+<SubTexture name="totem_sphere_white" x="76" y="668" width="72" height="72"/>
+<SubTexture name="Weap_Ranger" x="298" y="76" width="72" height="72"/>
+<SubTexture name="Weap_Super" x="372" y="76" width="72" height="72"/>
+<SubTexture name="Weap_Support" x="2" y="150" width="72" height="72"/>
+<SubTexture name="Weap_Tank" x="76" y="150" width="72" height="72"/>
+<SubTexture name="xp1" x="150" y="668" width="72" height="72"/>
+<SubTexture name="xp2" x="224" y="668" width="72" height="72"/>
+<SubTexture name="xp3" x="298" y="668" width="72" height="72"/>
+<SubTexture name="xp4" x="372" y="668" width="72" height="72"/>
+</TextureAtlas>
