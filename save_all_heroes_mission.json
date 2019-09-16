@@ -1,0 +1,3626 @@
+{
+ "response":[
+     {
+      "id": 1,
+      "stars": 0,
+      "triesSpent": 0,
+      "resetToday": 0
+    }
+ ],
+"heroes":{
+  "1": {
+    "id": 1,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "2": {
+    "id": 2,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "270": 1,
+      "271": 0,
+      "272": 0,
+      "273": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "3": {
+    "id": 3,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "260": 1,
+      "261": 0,
+      "262": 0,
+      "263": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "4": {
+    "id": 4,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "255": 1,
+      "256": 0,
+      "257": 0,
+      "258": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "5": {
+    "id": 5,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "24": 0,
+      "25": 0,
+      "101": 1,
+      "102": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "6": {
+    "id": 6,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "27": 1,
+      "28": 0,
+      "29": 0,
+      "30": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "7": {
+    "id": 7,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "32": 1,
+      "33": 0,
+      "34": 0,
+      "35": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "8": {
+    "id": 8,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "37": 1,
+      "38": 0,
+      "39": 0,
+      "40": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "9": {
+    "id": 9,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "42": 1,
+      "43": 0,
+      "44": 0,
+      "45": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "10": {
+    "id": 10,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "47": 1,
+      "48": 0,
+      "49": 0,
+      "50": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "11": {
+    "id": 11,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "52": 1,
+      "53": 0,
+      "54": 0,
+      "55": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "12": {
+    "id": 12,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "57": 1,
+      "58": 0,
+      "59": 0,
+      "60": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "13": {
+    "id": 13,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "62": 1,
+      "63": 0,
+      "64": 0,
+      "65": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "14": {
+    "id": 14,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "275": 1,
+      "276": 0,
+      "277": 0,
+      "278": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "15": {
+    "id": 15,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "72": 1,
+      "73": 0,
+      "74": 0,
+      "75": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "16": {
+    "id": 16,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "77": 1,
+      "78": 0,
+      "79": 0,
+      "103": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "17": {
+    "id": 17,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "82": 1,
+      "83": 0,
+      "84": 0,
+      "85": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "18": {
+    "id": 18,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "87": 1,
+      "88": 0,
+      "89": 0,
+      "90": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "19": {
+    "id": 19,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "92": 1,
+      "93": 0,
+      "94": 0,
+      "95": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "20": {
+    "id": 20,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "97": 1,
+      "98": 0,
+      "99": 0,
+      "100": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "21": {
+    "id": 21,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "105": 1,
+      "106": 0,
+      "107": 0,
+      "108": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "22": {
+    "id": 22,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "110": 1,
+      "111": 0,
+      "112": 0,
+      "113": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "23": {
+    "id": 23,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "115": 1,
+      "116": 0,
+      "117": 0,
+      "118": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "24": {
+    "id": 24,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "120": 1,
+      "121": 0,
+      "122": 0,
+      "123": 0
+    },
+    "star": 6,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "25": {
+    "id": 25,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "125": 1,
+      "126": 0,
+      "127": 0,
+      "128": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "26": {
+    "id": 26,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "130": 1,
+      "131": 0,
+      "132": 0,
+      "133": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "27": {
+    "id": 27,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "135": 1,
+      "136": 0,
+      "137": 0,
+      "138": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "28": {
+    "id": 28,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "265": 1,
+      "266": 0,
+      "267": 0,
+      "268": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "29": {
+    "id": 29,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "145": 1,
+      "146": 0,
+      "147": 0,
+      "148": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "30": {
+    "id": 30,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "150": 1,
+      "151": 0,
+      "152": 0,
+      "153": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "31": {
+    "id": 31,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "155": 1,
+      "156": 0,
+      "157": 0,
+      "158": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "32": {
+    "id": 32,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "160": 1,
+      "161": 0,
+      "162": 0,
+      "163": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "33": {
+    "id": 33,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "165": 1,
+      "166": 0,
+      "167": 0,
+      "168": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "34": {
+    "id": 34,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "170": 1,
+      "171": 0,
+      "172": 0,
+      "173": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "35": {
+    "id": 35,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "175": 1,
+      "176": 0,
+      "177": 0,
+      "178": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "36": {
+    "id": 36,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "180": 1,
+      "181": 0,
+      "182": 0,
+      "183": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "37": {
+    "id": 37,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "185": 1,
+      "186": 0,
+      "187": 0,
+      "188": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "38": {
+    "id": 38,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "190": 1,
+      "191": 0,
+      "192": 0,
+      "193": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "39": {
+    "id": 39,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "195": 1,
+      "196": 0,
+      "197": 0,
+      "198": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "40": {
+    "id": 40,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "200": 1,
+      "201": 0,
+      "202": 0,
+      "203": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "41": {
+    "id": 41,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "205": 1,
+      "206": 0,
+      "207": 0,
+      "208": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "42": {
+    "id": 42,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "210": 1,
+      "211": 0,
+      "212": 0,
+      "213": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "43": {
+    "id": 43,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "215": 1,
+      "216": 0,
+      "217": 0,
+      "218": 0
+    },
+    "star": 3,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "44": {
+    "id": 44,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "220": 1,
+      "221": 0,
+      "222": 0,
+      "223": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "45": {
+    "id": 45,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "225": 1,
+      "226": 0,
+      "227": 0,
+      "228": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "46": {
+    "id": 46,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "230": 1,
+      "231": 0,
+      "232": 0,
+      "233": 0
+    },
+    "star": 2,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  },
+  "1000": {
+    "id": 1000,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1001": {
+    "id": 1001,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1002": {
+    "id": 1002,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1003": {
+    "id": 1003,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1004": {
+    "id": 1004,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1005": {
+    "id": 1005,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1006": {
+    "id": 1006,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1007": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1010": {
+    "id": 1010,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1011": {
+    "id": 1011,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1012": {
+    "id": 1012,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1013": {
+    "id": 1013,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1014": {
+    "id": 1014,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1015": {
+    "id": 1015,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1016": {
+    "id": 1016,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1017": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1020": {
+    "id": 1020,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1021": {
+    "id": 1021,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1022": {
+    "id": 1022,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1023": {
+    "id": 1023,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1024": {
+    "id": 1024,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1025": {
+    "id": 1025,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1026": {
+    "id": 1026,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1027": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1030": {
+    "id": 1030,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1031": {
+    "id": 1031,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1032": {
+    "id": 1032,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1033": {
+    "id": 1033,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1034": {
+    "id": 1034,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1035": {
+    "id": 1035,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1036": {
+    "id": 1036,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1037": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1040": {
+    "id": 1040,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1041": {
+    "id": 1041,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1042": {
+    "id": 1042,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1043": {
+    "id": 1043,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1044": {
+    "id": 1044,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1045": {
+    "id": 1045,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1046": {
+    "id": 1046,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1047": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1050": {
+    "id": 1050,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1051": {
+    "id": 1051,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1052": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1052": {
+    "id": 1052,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1053": {
+    "id": 1053,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1055": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1054": {
+    "id": 1054,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1055": {
+    "id": 1055,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1058": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1056": {
+    "id": 1056,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1060": 0,
+      "1061": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1057": {
+    "id": 1057,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1063": 0,
+      "1064": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1061": {
+    "id": 1061,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1062": {
+    "id": 1062,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1072": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1063": {
+    "id": 1063,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1074": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1064": {
+    "id": 1064,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1065": {
+    "id": 1065,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1077": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1066": {
+    "id": 1066,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1067": {
+    "id": 1067,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1080": 1
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1068": {
+    "id": 1068,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  },
+  "1069": {
+    "id": 1069,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+      "1083": 0,
+      "1084": 0
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "scale": 1
+  }
+}
+}

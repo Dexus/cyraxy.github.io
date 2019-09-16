@@ -1,0 +1,81 @@
+<html><head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<link href="https://heroes.cdnvideo.ru/iframe/dev/feedback.v2.css?49" rel="stylesheet" type="text/css" media="all">
+
+
+<style type="text/css">.mrc__translayer {background: rgba(255,255,255,0.7); position: fixed; left: 0; top: 0; width: 100%; height: 100%; z-index: 999999; display: none}
+.mrc__translayer:before {background: url(//my1.imgsmail.ru/mail/ru/images/my/compass/static/progress/preloader_grayonwhite.gif) no-repeat center center; bottom: 0; content: ""; display: block; left: 0; margin: auto; position: absolute; right: 0; top: 0; height: 12px; width: 64px;}
+.mrc__translayer_on iframe {box-shadow: 0 2px 5px rgba(0,0,0,0.35); visibility: hidden;}.mrc__translayer_on {background-image:none;}</style>
+
+</head>
+<body oncontextmenu="return false;" class="bg--heroes bg--heroes-fb">
+
+	<div id="flash-wrapper" style="width:1000px">
+		<div id="flash-content" style="background: black; min-height: 640px; visibility: visible; width: 1000px; height: 640px; cursor: pointer;">
+		<canvas width="1000" height="640" style="transform: translateZ(0px); width: 1000px; height: 640px; margin-left: 0px; margin-top: 0px;"></canvas><input type="text" autocapitalize="off" autocomplete="off" style="position: absolute; opacity: 0; color: transparent; left: 0px; top: 50%; width: 1px; height: 1px; pointer-events: none; z-index: -10000000;"></div>
+	</div>
+
+	
+	
+	<style>
+					.customFooterContent {
+				width: 1000px;
+			}
+			.customFooterContent:before {
+				margin-left: -530px;
+			}
+			.customFooterContent:after {
+				margin-left: 500px;
+			}
+	</style>
+
+
+
+<script src="loader.js" type="text/javascript"></script>
+	<script src="combined.dev.-sockets.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+		var NXFlashVars = {"is_app_user":"1","session_key":"ea3ed1cb1d2a374dda6e53cd36490b4","vid":"12115093021438215810115","oid":"12115093021438215810115","app_id":"746862","authentication_key":"ps-z4dPy6Tk-1549022060-146.120.183.138-08aa700794c3c5c11cd3fd3d6659b6ee","session_expire":"1548259943","ext_perm":"emails,payments","sig":"821dff73600df0191795035e04841d9a","window_id":"CometName_4c69cf8867ef2a29437758071a358819","referer_type":"hp","requestLoadingInfoTimeout":3000,"country_code":"RU","geoip_city":"","sys_id":2,"network":"mail","uid":"12115093021438215810115","interface_lang":"ru","game_url":"https://my.mail.ru/apps/746862","group_url":"https://my.mail.ru/community/moba/","rpc_url":"https://heroes-mm.nextersglobal.com/api/","static_url":"https://heroes.cdnvideo.ru/","preloader":"mail/v043/MmLoader.swf?v=3","index_url":"https://heroes.cdnvideo.ru/mm/index.v0379.json.gz","ident":"heroes","preloader_asset":"preloader/preloader_default.swf?v=1","stat_url":"https://stat.nextersglobal.com/collector/client/","error_url":"https://error.nextersglobal.com/client/","browser":"chrome"};
+		var haxeDom = document.getElementById('flash-content');
+
+		//if (NXFlashVars === '') {
+			//NXSendErrorDString('NXFlashVars is empty');
+	//	}
+
+		haxeDom.innerHTML = '';
+		haxeDom.style.visibility = 'visible';
+		haxeDom.style.width = '1000px';
+		haxeDom.style.height = '640px';
+
+		if (window.lime) {
+			lime.embed('heroeshx', 'flash-content', 1000, 640, {parameters: {} });
+		} else {
+			$.ajax({
+				//url: 'https://heroes.cdnvideo.ru/mm/v0375/assets/heroes.js',
+				//url: 'https://raw.githubusercontent.com/Ru4slan/Ru4slan.github.io/master/herowars.js',
+				//url: 'http://herowarssss.ru/herowarss.js',
+				url:"herowars2.js",
+				dataType: 'text',
+				success: function(data, status) {
+					eval(data);
+					lime.embed('heroeshx', 'flash-content', 1000, 640, {parameters: {} });
+				},
+				error: function(xhr, desc, er) {
+					var text = 'Error loading heroes.js, again.';
+					text += ' Status: '+xhr.readyState;
+					text += ' Text: '+xhr.statusText;
+					text += ' State: '+xhr.state();
+					NXSendErrorDString(text);
+				}
+			});
+		}
+	</script>
+
+
+
+	
+
+
+		
+
+</body></html>

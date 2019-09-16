@@ -1,0 +1,103 @@
+#Posts{
+
+		width:625px;
+	float:left;
+	height:auto;
+	color:black;
+	padding-right:5px;
+	padding-top:5px;
+	
+}
+
+
+
+#Posts .name{
+	background: url(newsback.jpg);
+	padding:5px;
+	font-family: 'Roboto Slab', bold;
+font-size:25px;	
+
+}
+
+#comment{
+	float:left;
+}
+
+
+
+#Posts .coment::after{
+	content:" ";
+	background:white;
+	display:block;
+	width:100%;	
+}
+#Posts #commentaries{
+padding-top:15px;	
+}
+
+
+#Post-data{
+
+height:25px;
+ border-radius: 10px 10px 0 0;
+background:url(post.jpg);
+color:white;
+padding-right:5px;
+box-shadow: 0 0 10px black;
+
+}
+
+#Post-data ul li{
+		float:left;
+	list-style-type:none;
+	text-align:center;	
+border-radius: 10px;
+		width:150px;
+		
+}
+
+
+#Post{
+	margin-left:5px;	
+}
+
+
+#Post-text p{
+word-wrap: break-word;
+box-shadow: 0 0 10px black;
+	
+}
+
+#Posts .osn{
+background:#D9D5D5;
+color:black;
+font-size:20px;	
+}
+
+#Posts .coment{
+	background: url(newsbackcomment.jpg);
+	font-family: 'Roboto Slab', bold;
+font-size:18px;	
+text-align:right;
+ border-radius: 0 0 10px 10px;
+box-shadow: 0 0 8px black;
+}
+
+#Posts .coment::after{
+	margin-bottom:15px;
+}
+
+#Posts .coment a:visited{
+	color:#FFFFFF;
+}
+
+#Posts .coment a:link{
+	color:red;
+}
+
+
+
+
+
+
+

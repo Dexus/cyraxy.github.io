@@ -1,0 +1,17 @@
+ {
+          "water": {
+            "id": 4001,
+            "level": 120,
+            "star": 6
+          },
+          "earth": {
+            "id": 4003,
+            "level": 120,
+            "star": 6
+          },
+          "fire": {
+            "id": 4002,
+            "level": 120,
+            "star": 6
+          }
+        }

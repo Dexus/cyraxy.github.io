@@ -1,0 +1,264 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body{
+	background:url(me3.jpg);
+background-attachment: fixed;
+}
+#content::before, #content::after {
+    content:"";
+    display:table;
+}
+
+
+
+#content::after {
+    clear:both;
+}
+#content {
+    zoom:1; /* For IE 6/7 (trigger hasLayout) */
+}
+
+#content{
+box-shadow: 0 0 10px green;	
+ margin-left:auto;
+ margin-right:auto;
+	width:900px;
+	background:white;
+		border-radius: 6px 6px 0 0;
+}
+
+#shapka{
+
+padding-top:65px;
+	margin-left:auto;
+margin-right:auto;
+	box-shadow: 0 0 10px white;
+width:900px;	
+}
+
+#quick_enter{
+
+	width:250px;
+	float:right;
+	padding-right:5px;
+	height:auto;
+	padding-top:10px;
+	
+}
+
+
+
+a:visited{
+	color:red;
+	text-decoration:none;
+}
+
+a:link{
+	color:white;
+	text-decoration:none;
+}
+
+
+#quick_enter .zagolovok{
+	background:url(post.jpg);
+		box-shadow: 0 0 10px rgba(255,0,0,0.9);
+			border-radius: 6px 6px 0 0;
+			font-size:20px;
+			font-family: 'Ruslan Display', cursive;	
+			color:white;
+
+}
+
+#quick_enter form .vvod {
+	background:url(quickenter.jpg);
+	color:white;
+	padding-bottom:15px;
+	vertical-align:center;
+	font-size:20px;
+	box-shadow: 0 0 10px black;
+}
+
+#quick_enter form .vvod input {
+
+	color:black;
+	padding-bottom:5px;
+	vertical-align:center;
+	width:90%;
+}
+
+
+#quick_enter form .enter{
+	background:url(post.jpg);
+	float:center;
+	border-radius: 0 0 6px 6px;
+	height:100%;
+	box-shadow: 0 0 10px rgba(255,0,0,0.9);
+}
+
+#quick_enter form .enter input{
+	float:center;
+	border-radius: 20px 20px 20px 20px;
+	height:30px;
+	width:150px;
+	margin-bottom:5px;
+	margin-top:5px;
+	font-size:21px;
+}
+
+
+#News{
+
+		width:625px;
+	float:left;
+	height:auto;
+	color:white;
+	padding-right:5px;
+	padding-top:10px;
+	padding-left:10px;
+}
+
+#News .name{
+	background: url(newsback.jpg);
+	padding:5px;
+	font-family: 'Roboto Slab', bold;
+font-size:25px;
+border-radius: 6px 6px 0 0;
+box-shadow: 0 0 8px black;
+margin-bottom:5px;	
+}
+
+
+#News .name:hover{
+	background:url(newsbackhover.jpg);
+}
+
+.date{
+	float:left;
+	font-size:17px;
+}
+
+
+
+#News .osn{
+background:#E2E2E2;
+color:black;
+box-shadow: 0 0 8px black;
+font-family: 'Prosto One', cursive;
+margin-bottom:5px;	
+}
+
+#News .coment{
+	background: url(newsbackcomment.jpg);
+	font-family: 'Roboto Slab', bold;
+font-size:20px;	
+text-align:right;
+margin-bottom:15px;
+box-shadow: 0 0 8px black;
+margin-bottom:30px;
+
+}
+
+.coment{
+border-radius: 0 0 6px 6px;	
+}
+
+#News .coment a:visited{
+	color:#FFFFFF;
+}
+
+#News .coment a:link{
+	color:red;
+}
+
+#navigation{
+	height:65px;	
+	width:900px;
+	position:fixed;
+	font-size:21px;
+
+	
+}
+
+#navigation-block{
+ margin-left:auto;
+ margin-right:auto;
+	width:900px;
+background:none;	
+}
+
+#navigation ul li {
+	float:left;
+	position:relative;
+	list-style-type:none;
+	background:url(menubutton.jpg);
+	width:180px;
+	text-align:center;
+}
+
+#navigation ul li a{
+color:#000;
+padding: 0 10px;
+text-decoration:none;
+line-height: 65px;
+display: block;
+font-family: 'Russo One', sans-serif;
+height:65px;
+color:white;
+
+}
+
+
+#navigation ul li a:hover{
+	background:url(menubuttonhover1.jpg);
+}
+
+
+#footer{
+
+	background:url(footer.jpg);
+	margin-left:auto;
+margin-right:auto;
+	width:900px;
+	height:40px;
+	text-align:center;
+	border-radius: 0 0 6px 6px;
+		box-shadow: 0 0 10px orange;
+line-height:40px;		
+}
+
+
+
+
+
+
+
+
