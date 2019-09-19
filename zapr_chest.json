@@ -1,0 +1,94 @@
+  {
+      "result": {
+        "response": {
+          "rewards": {
+            "free": [
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "payed": []
+          },
+          "boss": {
+            "id": 12,
+            "bossLevel": 17,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "8": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          }
+        },
+        "quests": [
+          {
+            "id": 21381,
+            "state": 1,
+            "progress": 2,
+            "reward": {
+              "coin": {
+                "4": 20
+              }
+            }
+          },
+          {
+            "id": 21382,
+            "state": 1,
+            "progress": 2,
+            "reward": {
+              "coin": {
+                "4": 50
+              }
+            }
+          },
+          {
+            "id": 21383,
+            "state": 1,
+            "progress": 2,
+            "reward": {
+              "coin": {
+                "4": 150
+              }
+            }
+          },
+          {
+            "id": 21384,
+            "state": 1,
+            "progress": 2,
+            "reward": {
+              "coin": {
+                "4": 200
+              }
+            }
+          },
+          {
+            "id": 10020,
+            "state": 1,
+            "progress": 1,
+            "reward": {
+              "experience": 50,
+              "gold": 5000
+            }
+          }
+        ]
+      }
+    }

@@ -11585,7 +11585,7 @@
         "response": [
           {
             "id": 10,
-            "bossLevel": 15,
+            "bossLevel": 1,
             "chestNum": 2,
             "chestId": 2,
             "lastChestReward": {
@@ -11612,7 +11612,7 @@
           },
           {
             "id": 11,
-            "bossLevel": 11,
+            "bossLevel": 1,
             "chestNum": 2,
             "chestId": 2,
             "lastChestReward": {
@@ -11639,7 +11639,7 @@
           },
           {
             "id": 12,
-            "bossLevel": 15,
+            "bossLevel": 1,
             "chestNum": 2,
             "chestId": 2,
             "lastChestReward": {

@@ -51,5 +51,89 @@
     ],
     "scale": 1
   }
-}
+},
+
+"boss":[
+         {
+            "id": 10,
+            "bossLevel": 17,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "10": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          },
+         {
+            "id": 11,
+            "bossLevel": 11,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "9": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          },
+          {
+            "id": 12,
+            "bossLevel": 15,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "8": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          }
+]
 }
