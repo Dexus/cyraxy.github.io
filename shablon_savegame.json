@@ -135,5 +135,32 @@
             },
             "mayRaid": false
           }
-]
+],
+"titans":{
+	"4000": {
+            "id": 4000,
+            "xp": 16970,
+            "level": 64,
+            "star": 5,
+            "skills": {
+            },
+            "power": 0,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8,
+			"skins":{}
+          }
+}
 }
