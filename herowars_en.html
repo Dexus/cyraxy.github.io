@@ -6,7 +6,7 @@
 
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<title>Хроники Хаоса | Ролевая онлайн игра</title>
+	<title>Hero Wars online game</title>
 	<meta name="description" content="Эпическая фэнтезийная MMORPG. Качай десятки героев. Бросай вызов сотням боссов. Откликнись на зов Доминиона и возглавь целую армию!"/>
 	<link rel="shortcut icon" href="/i/favicon-16x16.png" />
 	<link rel="icon" type="image/png" sizes="16x16" href="/i/favicon-16x16.png" />
@@ -51,9 +51,11 @@
 </head>
 
 <body oncontextmenu="return false;" class="body frame_page bg_color_0  bg--heroes mode_game">
+	<span style="font-size:20px;color:white"><input id="same" type="checkbox">Select same heroes</span>
 
 
 	<main class="main">
+
 		<div class="center">
 
 			<div id="flash-wrapper">
@@ -87,7 +89,6 @@
 
 	<!--<script src="https://heroes-a.akamaihd.net/i/hw-web/js/combined.dev.-sockets.js?v=4"></script>-->
 	<script  src="combined_dev_sockets.js"></script>
-	<script  src="generate_missions_battles.js" type="text/javascript"></script>
 	<!--<script src="https://heroes-a.akamaihd.net/i/hw-web/js/Pushd4ClientWar.js?v=3"></script>-->
 
 
@@ -98,6 +99,10 @@
 		var haxeDom = document.getElementById('flash-content');
 
 	</script>
+	
+	
+	
+	
 	<script src="heroes_0429_release_en.js" onerror="NXJsLoadError()"  type="text/javascript"></script>
 	<script type="text/javascript">
 		if (window.lime) {
@@ -110,7 +115,6 @@
 	</script>
 	
 		<a id="export" class="myButton" download="" href="#" style="color:white;font-color:white;display:none">СКАЧАТЬ СОХРАНЕНИЕ!</a>
-	
 	
 <div id="savegame" style="color:white;">
 
