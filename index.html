@@ -58,7 +58,7 @@
 
 		<div class="center" >
 
-			<div id="flash-wrapper" style="float:left">
+			<div id="flash-wrapper">
 				<div id="flash-content">
 					<div class="flash-update-bg">
 						<div class="jshaxe-content-text">
@@ -105,11 +105,11 @@
 		if (window.lime) {
 			haxeDom.innerHTML = '';
 			haxeDom.style.visibility = 'visible';
-			haxeDom.style.width = document.body.clientWidth;
-			//haxeDom.style.width = '1360px';
-			//haxeDom.style.height = '640px';
-			haxeDom.style.height = document.body.clientHeight;
-			lime.embed('heroeshx', 'flash-content', document.body.clientWidth, document.body.clientHeight, {parameters: {} });
+			//haxeDom.style.width = document.body.clientWidth;
+			haxeDom.style.width = '1000px';
+			haxeDom.style.height = '640px';
+			//haxeDom.style.height = document.body.clientHeight;
+			lime.embed('heroeshx', 'flash-content', 1000, 640, {parameters: {} });
 		}
 	</script>
 	
