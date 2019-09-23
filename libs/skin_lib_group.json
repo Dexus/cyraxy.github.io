@@ -39272,665 +39272,665 @@
       "sortIndex": 1,
       "localeKey": "LIB_SKIN_NAME_STVALENTINE",
       "statData": {
-        "levels": {
+       "levels": {
           "1": {
             "cost": {
               "coin": {
-                "10": 5000
+                "9": 5000
               }
             },
             "level": 1,
             "statBonus": {
-              "dodge": 170
+              "armorPenetration": 18
             }
           },
           "2": {
             "cost": {
               "coin": {
-                "10": 65
+                "9": 78
               }
             },
             "level": 2,
             "statBonus": {
-              "dodge": 175
+              "armorPenetration": 36
             }
           },
           "3": {
             "cost": {
               "coin": {
-                "10": 65
+                "9": 78
               }
             },
             "level": 3,
             "statBonus": {
-              "dodge": 180
+              "armorPenetration": 54
             }
           },
           "4": {
             "cost": {
               "coin": {
-                "10": 65
+                "9": 78
               }
             },
             "level": 4,
             "statBonus": {
-              "dodge": 185
+              "armorPenetration": 72
             }
           },
           "5": {
             "cost": {
               "coin": {
-                "10": 65
+                "9": 78
               }
             },
             "level": 5,
             "statBonus": {
-              "dodge": 190
+              "armorPenetration": 90
             }
           },
           "6": {
             "cost": {
               "coin": {
-                "10": 105
+                "9": 91
               }
             },
             "level": 6,
             "statBonus": {
-              "dodge": 197
+              "armorPenetration": 116
             }
           },
           "7": {
             "cost": {
               "coin": {
-                "10": 105
+                "9": 91
               }
             },
             "level": 7,
             "statBonus": {
-              "dodge": 204
+              "armorPenetration": 142
             }
           },
           "8": {
             "cost": {
               "coin": {
-                "10": 105
+                "9": 91
               }
             },
             "level": 8,
             "statBonus": {
-              "dodge": 211
+              "armorPenetration": 168
             }
           },
           "9": {
             "cost": {
               "coin": {
-                "10": 105
+                "9": 91
               }
             },
             "level": 9,
             "statBonus": {
-              "dodge": 218
+              "armorPenetration": 194
             }
           },
           "10": {
             "cost": {
               "coin": {
-                "10": 105
+                "9": 91
               }
             },
             "level": 10,
             "statBonus": {
-              "dodge": 225
+              "armorPenetration": 220
             }
           },
           "11": {
             "cost": {
               "coin": {
-                "10": 255
+                "9": 282
               }
             },
             "level": 11,
             "statBonus": {
-              "dodge": 240
+              "armorPenetration": 281
             }
           },
           "12": {
             "cost": {
               "coin": {
-                "10": 255
+                "9": 282
               }
             },
             "level": 12,
             "statBonus": {
-              "dodge": 255
+              "armorPenetration": 342
             }
           },
           "13": {
             "cost": {
               "coin": {
-                "10": 255
+                "9": 282
               }
             },
             "level": 13,
             "statBonus": {
-              "dodge": 270
+              "armorPenetration": 403
             }
           },
           "14": {
             "cost": {
               "coin": {
-                "10": 255
+                "9": 282
               }
             },
             "level": 14,
             "statBonus": {
-              "dodge": 285
+              "armorPenetration": 464
             }
           },
           "15": {
             "cost": {
               "coin": {
-                "10": 255
+                "9": 282
               }
             },
             "level": 15,
             "statBonus": {
-              "dodge": 300
+              "armorPenetration": 525
             }
           },
           "16": {
             "cost": {
               "coin": {
-                "10": 300
+                "9": 323
               }
             },
             "level": 16,
             "statBonus": {
-              "dodge": 319
+              "armorPenetration": 595
             }
           },
           "17": {
             "cost": {
               "coin": {
-                "10": 300
+                "9": 323
               }
             },
             "level": 17,
             "statBonus": {
-              "dodge": 338
+              "armorPenetration": 665
             }
           },
           "18": {
             "cost": {
               "coin": {
-                "10": 300
+                "9": 323
               }
             },
             "level": 18,
             "statBonus": {
-              "dodge": 357
+              "armorPenetration": 735
             }
           },
           "19": {
             "cost": {
               "coin": {
-                "10": 300
+                "9": 323
               }
             },
             "level": 19,
             "statBonus": {
-              "dodge": 376
+              "armorPenetration": 805
             }
           },
           "20": {
             "cost": {
               "coin": {
-                "10": 300
+                "9": 323
               }
             },
             "level": 20,
             "statBonus": {
-              "dodge": 395
+              "armorPenetration": 875
             }
           },
           "21": {
             "cost": {
               "coin": {
-                "10": 700
+                "9": 732
               }
             },
             "level": 21,
             "statBonus": {
-              "dodge": 435
+              "armorPenetration": 1032
             }
           },
           "22": {
             "cost": {
               "coin": {
-                "10": 700
+                "9": 732
               }
             },
             "level": 22,
             "statBonus": {
-              "dodge": 475
+              "armorPenetration": 1189
             }
           },
           "23": {
             "cost": {
               "coin": {
-                "10": 700
+                "9": 732
               }
             },
             "level": 23,
             "statBonus": {
-              "dodge": 515
+              "armorPenetration": 1346
             }
           },
           "24": {
             "cost": {
               "coin": {
-                "10": 700
+                "9": 732
               }
             },
             "level": 24,
             "statBonus": {
-              "dodge": 555
+              "armorPenetration": 1503
             }
           },
           "25": {
             "cost": {
               "coin": {
-                "10": 700
+                "9": 732
               }
             },
             "level": 25,
             "statBonus": {
-              "dodge": 595
+              "armorPenetration": 1660
             }
           },
           "26": {
             "cost": {
               "coin": {
-                "10": 790
+                "9": 837
               }
             },
             "level": 26,
             "statBonus": {
-              "dodge": 640
+              "armorPenetration": 1835
             }
           },
           "27": {
             "cost": {
               "coin": {
-                "10": 790
+                "9": 837
               }
             },
             "level": 27,
             "statBonus": {
-              "dodge": 685
+              "armorPenetration": 2010
             }
           },
           "28": {
             "cost": {
               "coin": {
-                "10": 790
+                "9": 837
               }
             },
             "level": 28,
             "statBonus": {
-              "dodge": 730
+              "armorPenetration": 2185
             }
           },
           "29": {
             "cost": {
               "coin": {
-                "10": 790
+                "9": 837
               }
             },
             "level": 29,
             "statBonus": {
-              "dodge": 775
+              "armorPenetration": 2360
             }
           },
           "30": {
             "cost": {
               "coin": {
-                "10": 790
+                "9": 837
               }
             },
             "level": 30,
             "statBonus": {
-              "dodge": 820
+              "armorPenetration": 2535
             }
           },
           "31": {
             "cost": {
               "coin": {
-                "10": 1050
+                "9": 1108
               }
             },
             "level": 31,
             "statBonus": {
-              "dodge": 880
+              "armorPenetration": 2762
             }
           },
           "32": {
             "cost": {
               "coin": {
-                "10": 1050
+                "9": 1108
               }
             },
             "level": 32,
             "statBonus": {
-              "dodge": 940
+              "armorPenetration": 2989
             }
           },
           "33": {
             "cost": {
               "coin": {
-                "10": 1050
+                "9": 1108
               }
             },
             "level": 33,
             "statBonus": {
-              "dodge": 1000
+              "armorPenetration": 3216
             }
           },
           "34": {
             "cost": {
               "coin": {
-                "10": 1050
+                "9": 1108
               }
             },
             "level": 34,
             "statBonus": {
-              "dodge": 1060
+              "armorPenetration": 3443
             }
           },
           "35": {
             "cost": {
               "coin": {
-                "10": 1050
+                "9": 1108
               }
             },
             "level": 35,
             "statBonus": {
-              "dodge": 1120
+              "armorPenetration": 3670
             }
           },
           "36": {
             "cost": {
               "coin": {
-                "10": 1160
+                "9": 1235
               }
             },
             "level": 36,
             "statBonus": {
-              "dodge": 1185
+              "armorPenetration": 3915
             }
           },
           "37": {
             "cost": {
               "coin": {
-                "10": 1160
+                "9": 1235
               }
             },
             "level": 37,
             "statBonus": {
-              "dodge": 1250
+              "armorPenetration": 4160
             }
           },
           "38": {
             "cost": {
               "coin": {
-                "10": 1160
+                "9": 1235
               }
             },
             "level": 38,
             "statBonus": {
-              "dodge": 1315
+              "armorPenetration": 4405
             }
           },
           "39": {
             "cost": {
               "coin": {
-                "10": 1160
+                "9": 1235
               }
             },
             "level": 39,
             "statBonus": {
-              "dodge": 1380
+              "armorPenetration": 4650
             }
           },
           "40": {
             "cost": {
               "coin": {
-                "10": 1160
+                "9": 1235
               }
             },
             "level": 40,
             "statBonus": {
-              "dodge": 1445
+              "armorPenetration": 4895
             }
           },
           "41": {
             "cost": {
               "coin": {
-                "10": 1270
+                "9": 1330
               }
             },
             "level": 41,
             "statBonus": {
-              "dodge": 1515
+              "armorPenetration": 5157
             }
           },
           "42": {
             "cost": {
               "coin": {
-                "10": 1270
+                "9": 1330
               }
             },
             "level": 42,
             "statBonus": {
-              "dodge": 1585
+              "armorPenetration": 5419
             }
           },
           "43": {
             "cost": {
               "coin": {
-                "10": 1270
+                "9": 1330
               }
             },
             "level": 43,
             "statBonus": {
-              "dodge": 1655
+              "armorPenetration": 5681
             }
           },
           "44": {
             "cost": {
               "coin": {
-                "10": 1270
+                "9": 1330
               }
             },
             "level": 44,
             "statBonus": {
-              "dodge": 1725
+              "armorPenetration": 5943
             }
           },
           "45": {
             "cost": {
               "coin": {
-                "10": 1270
+                "9": 1330
               }
             },
             "level": 45,
             "statBonus": {
-              "dodge": 1795
+              "armorPenetration": 6205
             }
           },
           "46": {
             "cost": {
               "coin": {
-                "10": 1370
+                "9": 1447
               }
             },
             "level": 46,
             "statBonus": {
-              "dodge": 1868
+              "armorPenetration": 6485
             }
           },
           "47": {
             "cost": {
               "coin": {
-                "10": 1370
+                "9": 1447
               }
             },
             "level": 47,
             "statBonus": {
-              "dodge": 1941
+              "armorPenetration": 6765
             }
           },
           "48": {
             "cost": {
               "coin": {
-                "10": 1370
+                "9": 1447
               }
             },
             "level": 48,
             "statBonus": {
-              "dodge": 2014
+              "armorPenetration": 7045
             }
           },
           "49": {
             "cost": {
               "coin": {
-                "10": 1370
+                "9": 1447
               }
             },
             "level": 49,
             "statBonus": {
-              "dodge": 2087
+              "armorPenetration": 7325
             }
           },
           "50": {
             "cost": {
               "coin": {
-                "10": 1370
+                "9": 1447
               }
             },
             "level": 50,
             "statBonus": {
-              "dodge": 2160
+              "armorPenetration": 7605
             }
           },
           "51": {
             "cost": {
               "coin": {
-                "10": 1460
+                "9": 1559
               }
             },
             "level": 51,
             "statBonus": {
-              "dodge": 2238
+              "armorPenetration": 7902
             }
           },
           "52": {
             "cost": {
               "coin": {
-                "10": 1460
+                "9": 1559
               }
             },
             "level": 52,
             "statBonus": {
-              "dodge": 2316
+              "armorPenetration": 8199
             }
           },
           "53": {
             "cost": {
               "coin": {
-                "10": 1460
+                "9": 1559
               }
             },
             "level": 53,
             "statBonus": {
-              "dodge": 2394
+              "armorPenetration": 8496
             }
           },
           "54": {
             "cost": {
               "coin": {
-                "10": 1460
+                "9": 1559
               }
             },
             "level": 54,
             "statBonus": {
-              "dodge": 2472
+              "armorPenetration": 8793
             }
           },
           "55": {
             "cost": {
               "coin": {
-                "10": 1460
+                "9": 1559
               }
             },
             "level": 55,
             "statBonus": {
-              "dodge": 2550
+              "armorPenetration": 9090
             }
           },
           "56": {
             "cost": {
               "coin": {
-                "10": 1570
+                "9": 1676
               }
             },
             "level": 56,
             "statBonus": {
-              "dodge": 2632
+              "armorPenetration": 9405
             }
           },
           "57": {
             "cost": {
               "coin": {
-                "10": 1570
+                "9": 1676
               }
             },
             "level": 57,
             "statBonus": {
-              "dodge": 2714
+              "armorPenetration": 9720
             }
           },
           "58": {
             "cost": {
               "coin": {
-                "10": 1570
+                "9": 1676
               }
             },
             "level": 58,
             "statBonus": {
-              "dodge": 2796
+              "armorPenetration": 10035
             }
           },
           "59": {
             "cost": {
               "coin": {
-                "10": 1570
+                "9": 1676
               }
             },
             "level": 59,
             "statBonus": {
-              "dodge": 2878
+              "armorPenetration": 10350
             }
           },
           "60": {
             "cost": {
               "coin": {
-                "10": 1570
+                "9": 1676
               }
             },
             "level": 60,
             "statBonus": {
-              "dodge": 2960
+              "armorPenetration": 10665
             }
           }
         }

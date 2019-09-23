@@ -2165,7 +2165,7 @@
       "behavior": {
         "animationDelay": 0.6,
         "behavior": "Projectile",
-        "cooldown": 6.3,
+        "cooldown": 5,
         "params": [],
         "prime": {
           "base": "PA",
@@ -2196,7 +2196,7 @@
         "params": [
           {
             "name": "damageMultiplierPerHit",
-            "value": 0.8
+            "value": 1.3
           }
         ],
         "prime": {
@@ -2227,7 +2227,7 @@
         "animationDelay": 0.87,
         "behavior": "SelfEffect",
         "cooldown": 14,
-        "duration": 2.5,
+        "duration": 4,
         "effect": "Immune",
         "hitrate": -1,
         "params": []
@@ -2258,7 +2258,7 @@
         },
         "secondary": {
           "c": "120",
-          "scale": "0.5"
+          "scale": "1.0"
         }
       },
       "icon_assetAtlas": 1,
@@ -2980,7 +2980,7 @@
         ],
         "prime": {
           "c": "-170",
-          "scale": "5"
+          "scale": "10"
         }
       },
       "icon_assetAtlas": 1,

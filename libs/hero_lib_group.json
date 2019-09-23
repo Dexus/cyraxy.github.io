@@ -7488,361 +7488,360 @@
       },
       "runes": [
         5,
-        7,
         4,
+        12,
         8,
         3
       ],
       "artifacts": [
         1016,
-        2002,
+        2004,
         3003
       ],
-      "color": {
+     "color": {
         "1": {
           "items": [
+            1,
+            2,
             3,
-            6,
             8,
-            9,
-            13,
-            14
+            14,
+            20
           ]
         },
         "2": {
           "battleStatData": {
-            "agility": 12,
+            "agility": 14,
             "armor": 25,
-            "hp": 385,
-            "intelligence": 7,
-            "magicResist": 25,
-            "physicalAttack": 25,
-            "strength": 7
+            "hp": 200,
+            "intelligence": 2,
+            "physicalAttack": 62,
+            "strength": 2
           },
           "items": [
-            13,
-            17,
-            12,
+            8,
+            9,
+            18,
             20,
-            27,
-            28
+            25,
+            23
           ]
         },
         "3": {
           "battleStatData": {
             "agility": 33,
-            "armor": 75,
-            "hp": 770,
-            "intelligence": 10,
-            "magicResist": 75,
-            "physicalAttack": 50,
-            "strength": 10
+            "armor": 50,
+            "hp": 585,
+            "intelligence": 4,
+            "magicResist": 25,
+            "physicalAttack": 120,
+            "strength": 11
           },
           "items": [
             12,
             20,
-            24,
-            43,
+            25,
             28,
+            38,
             35
           ]
         },
         "4": {
           "battleStatData": {
-            "agility": 59,
-            "armor": 125,
-            "hp": 1270,
-            "intelligence": 18,
-            "magicResist": 125,
-            "physicalAttack": 108,
-            "strength": 18
+            "agility": 69,
+            "armor": 50,
+            "hp": 585,
+            "intelligence": 12,
+            "magicResist": 75,
+            "physicalAttack": 211,
+            "strength": 19
           },
           "items": [
-            23,
-            28,
-            38,
+            31,
             43,
-            56,
-            62
+            38,
+            53,
+            57,
+            56
           ]
         },
         "5": {
           "battleStatData": {
             "agility": 81,
-            "armor": 175,
-            "dodge": 30,
-            "hp": 2270,
-            "intelligence": 20,
-            "magicResist": 175,
-            "physicalAttack": 174,
-            "strength": 20
+            "armor": 100,
+            "armorPenetration": 100,
+            "hp": 1585,
+            "intelligence": 14,
+            "magicResist": 75,
+            "physicalAttack": 380,
+            "strength": 21
           },
           "items": [
-            39,
-            43,
-            50,
-            57,
             23,
-            73
+            25,
+            50,
+            56,
+            57,
+            70
           ]
         },
         "6": {
           "battleStatData": {
-            "agility": 118,
-            "armor": 225,
-            "dodge": 54,
-            "hp": 3070,
-            "intelligence": 22,
-            "magicResist": 267,
-            "physicalAttack": 333,
-            "strength": 22
+            "agility": 108,
+            "armor": 100,
+            "armorPenetration": 180,
+            "hp": 2585,
+            "intelligence": 16,
+            "magicResist": 117,
+            "physicalAttack": 595,
+            "strength": 23
           },
           "items": [
-            39,
-            39,
+            53,
+            44,
             57,
-            59,
-            73,
+            56,
+            70,
             87
           ]
         },
         "7": {
           "battleStatData": {
-            "agility": 155,
-            "armor": 325,
-            "dodge": 78,
-            "hp": 3870,
-            "intelligence": 29,
-            "magicResist": 367,
-            "physicalAttack": 473,
-            "strength": 29
+            "agility": 125,
+            "armor": 150,
+            "armorPenetration": 310,
+            "hp": 3585,
+            "intelligence": 23,
+            "magicResist": 167,
+            "physicalAttack": 824,
+            "strength": 30
           },
           "items": [
-            64,
-            66,
-            73,
+            59,
+            70,
             87,
-            99,
-            100
+            66,
+            92,
+            97
           ]
         },
         "8": {
           "battleStatData": {
-            "agility": 188,
-            "armor": 525,
-            "dodge": 102,
-            "hp": 5470,
-            "intelligence": 36,
-            "magicResist": 647,
-            "physicalAttack": 599,
-            "strength": 36
+            "agility": 158,
+            "armor": 250,
+            "armorPenetration": 590,
+            "hp": 3585,
+            "intelligence": 30,
+            "magicResist": 167,
+            "physicalAttack": 1141,
+            "strength": 37
           },
           "items": [
-            87,
-            76,
-            65,
-            91,
-            102,
-            122
+            64,
+            57,
+            70,
+            120,
+            118,
+            91
           ]
         },
         "9": {
           "battleStatData": {
             "agility": 220,
-            "armor": 685,
-            "dodge": 162,
-            "hp": 7470,
-            "intelligence": 48,
-            "magicResist": 727,
-            "physicalAttack": 833,
-            "strength": 48
+            "armor": 250,
+            "armorPenetration": 830,
+            "hp": 6385,
+            "intelligence": 32,
+            "magicResist": 247,
+            "physicalAttack": 1483,
+            "strength": 39
           },
           "items": [
-            73,
-            76,
-            100,
-            114,
-            122,
-            133
+            70,
+            84,
+            99,
+            134,
+            118,
+            96
           ]
         },
         "10": {
           "battleStatData": {
-            "agility": 291,
-            "armor": 845,
-            "dodge": 186,
-            "hp": 9870,
-            "intelligence": 79,
-            "magicResist": 927,
-            "physicalAttack": 1157,
-            "strength": 79
+            "agility": 310,
+            "armor": 450,
+            "armorPenetration": 1070,
+            "hp": 6385,
+            "intelligence": 54,
+            "magicResist": 503,
+            "physicalAttack": 1992,
+            "strength": 61
           },
           "items": [
-            91,
-            102,
-            114,
-            122,
+            87,
+            118,
             125,
-            138
+            138,
+            120,
+            122
           ]
         },
         "11": {
           "battleStatData": {
-            "agility": 379,
-            "armor": 1005,
-            "dodge": 246,
-            "hp": 13470,
-            "intelligence": 119,
-            "magicResist": 1087,
-            "physicalAttack": 1697,
-            "strength": 119
+            "agility": 473,
+            "armor": 610,
+            "armorPenetration": 1230,
+            "hp": 6385,
+            "intelligence": 99,
+            "magicResist": 663,
+            "physicalAttack": 2602,
+            "strength": 106
           },
           "items": [
+            118,
+            122,
+            134,
             114,
-            121,
-            125,
-            133,
             172,
-            175
+            167
           ]
         },
         "12": {
           "battleStatData": {
-            "agility": 574,
-            "armor": 1605,
-            "dodge": 246,
-            "hp": 15070,
-            "intelligence": 145,
-            "magicResist": 1407,
-            "physicalAttack": 2129,
-            "strength": 145
+            "agility": 614,
+            "armor": 770,
+            "armorPenetration": 1390,
+            "hp": 13985,
+            "intelligence": 101,
+            "magicResist": 919,
+            "physicalAttack": 3379,
+            "strength": 108
           },
           "items": [
-            121,
-            133,
+            118,
             125,
-            168,
+            97,
             172,
-            189
+            182,
+            179
           ]
         },
         "13": {
           "battleStatData": {
-            "agility": 769,
-            "armor": 1605,
-            "dodge": 474,
-            "hp": 19870,
-            "intelligence": 171,
-            "magicResist": 1727,
-            "physicalAttack": 2745,
-            "strength": 171
+            "agility": 755,
+            "armor": 770,
+            "armorPenetration": 2070,
+            "hp": 17185,
+            "intelligence": 103,
+            "magicResist": 1079,
+            "physicalAttack": 4663,
+            "strength": 110
           },
           "items": [
             120,
-            133,
-            167,
-            183,
-            184,
+            122,
+            173,
+            176,
+            179,
             187
           ]
         },
         "14": {
           "battleStatData": {
-            "agility": 1077,
-            "armor": 1925,
-            "dodge": 474,
-            "hp": 35470,
-            "intelligence": 245,
-            "magicResist": 2047,
-            "physicalAttack": 2853,
-            "strength": 245
+            "agility": 1009,
+            "armor": 930,
+            "armorPenetration": 2670,
+            "hp": 20385,
+            "intelligence": 153,
+            "magicResist": 1679,
+            "physicalAttack": 5519,
+            "strength": 160
           },
           "items": [
-            133,
-            114,
-            167,
-            179,
-            189,
+            122,
+            96,
+            168,
+            182,
+            201,
             208
           ]
         },
         "15": {
           "battleStatData": {
-            "agility": 1133,
-            "armor": 1925,
-            "dodge": 702,
-            "hp": 57726,
-            "intelligence": 271,
-            "magicResist": 2047,
-            "physicalAttack": 5040,
-            "strength": 271
+            "agility": 1049,
+            "armor": 1090,
+            "armorPenetration": 2990,
+            "hp": 32161,
+            "intelligence": 155,
+            "magicResist": 1679,
+            "physicalAttack": 8702,
+            "strength": 162
           },
           "items": [
-            134,
-            139,
-            179,
-            184,
-            189,
+            120,
+            118,
+            182,
+            182,
+            208,
             213
           ]
         },
         "16": {
           "battleStatData": {
-            "agility": 1490,
-            "armor": 1925,
-            "dodge": 930,
-            "hp": 70526,
-            "intelligence": 349,
-            "magicResist": 3032,
-            "physicalAttack": 6577,
-            "strength": 349
+            "agility": 1466,
+            "armor": 1090,
+            "armorPenetration": 3790,
+            "hp": 38817,
+            "intelligence": 233,
+            "magicResist": 1679,
+            "physicalAttack": 10889,
+            "strength": 240
           },
           "items": [
-            189,
-            167,
             213,
-            208,
-            228,
-            223
+            187,
+            201,
+            182,
+            225,
+            231
           ]
         },
         "17": {
           "battleStatData": {
-            "agility": 2065,
-            "armor": 1925,
-            "dodge": 1158,
-            "hp": 87982,
-            "intelligence": 427,
-            "magicResist": 4232,
-            "physicalAttack": 7908,
-            "strength": 427
+            "agility": 2045,
+            "armor": 1090,
+            "armorPenetration": 5310,
+            "hp": 43937,
+            "intelligence": 359,
+            "magicResist": 1679,
+            "physicalAttack": 13033,
+            "strength": 366
           },
           "items": [
-            187,
-            189,
-            208,
+            179,
+            182,
+            213,
             228,
-            225,
-            237
+            227,
+            239
           ]
         },
         "18": {
           "battleStatData": {
-            "agility": 2289,
-            "armor": 3845,
-            "dodge": 1386,
-            "hp": 104558,
-            "intelligence": 477,
-            "magicResist": 5432,
-            "physicalAttack": 11063,
-            "strength": 477
+            "agility": 2402,
+            "armor": 2290,
+            "armorPenetration": 6590,
+            "hp": 52257,
+            "intelligence": 437,
+            "magicResist": 2879,
+            "physicalAttack": 15657,
+            "strength": 444
           },
           "items": [
-            189,
-            187,
-            225,
-            224,
-            237,
+            179,
+            179,
+            231,
+            228,
+            239,
             243
           ]
         }
