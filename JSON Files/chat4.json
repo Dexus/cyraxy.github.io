@@ -1,0 +1,178 @@
+{
+  "date": 1553344769.121557,
+  "results": [
+    {
+      "ident": "body",
+      "result": {
+        "response": {
+          "chat": [
+            {
+              "id": "10127923",
+              "userId": "761790",
+              "messageType": "challenge",
+              "ctime": "1553342592",
+              "data": {
+                "ids": [],
+                "heroes": [
+                  {
+                    "id": 4023,
+                    "level": 37,
+                    "star": 3
+                  },
+                  {
+                    "id": 4002,
+                    "level": 37,
+                    "star": 4
+                  },
+                  {
+                    "id": 4011,
+                    "level": 39,
+                    "star": 4
+                  },
+                  {
+                    "id": 4001,
+                    "level": 37,
+                    "star": 4
+                  },
+                  {
+                    "id": 4000,
+                    "level": 40,
+                    "star": 4
+                  }
+                ],
+                "power": 60725,
+                "type": "titan",
+                "manual": false
+              }
+            },
+            {
+              "id": "10126566",
+              "userId": "756269",
+              "messageType": "challenge",
+              "ctime": "1553337743",
+              "data": {
+                "ids": [],
+                "heroes": [
+                  {
+                    "id": 32,
+                    "level": 75,
+                    "color": 10,
+                    "star": 3
+                  },
+                  {
+                    "id": 43,
+                    "level": 75,
+                    "color": 10,
+                    "star": 4
+                  },
+                  {
+                    "id": 12,
+                    "level": 75,
+                    "color": 10,
+                    "star": 5
+                  },
+                  {
+                    "id": 4,
+                    "level": 75,
+                    "color": 10,
+                    "star": 4
+                  },
+                  {
+                    "id": 27,
+                    "level": 75,
+                    "color": 10,
+                    "star": 4
+                  }
+                ],
+                "power": 106106,
+                "type": "hero",
+                "manual": false
+              }
+            },
+            {
+              "id": "10121819",
+              "userId": "790360",
+              "messageType": "replay",
+              "ctime": "1553292598",
+              "data": {
+                "ids": [
+                  "790360"
+                ],
+                "replayId": "1553292598555391829",
+                "enemyId": "790360",
+                "challengeId": 10121648
+              }
+            }
+          ],
+          "users": {
+            "761790": {
+              "id": "761790",
+              "name": "Русланчик из Еначки",
+              "lastLoginTime": "1553344737",
+              "serverId": "1",
+              "level": "72",
+              "clanId": "2473",
+              "clanRole": "3",
+              "avatarId": "375",
+              "isChatModerator": true,
+              "frameId": 3,
+              "allowPm": "all",
+              "accountId": "15093021438215810115",
+              "clanTitle": "Админ",
+              "clanIcon": {
+                "flagColor1": 1,
+                "flagColor2": 0,
+                "flagShape": 5,
+                "iconColor": 19,
+                "iconShape": 0
+              }
+            },
+            "790360": {
+              "id": "790360",
+              "name": "[VD] Дмитрий",
+              "lastLoginTime": "1553343407",
+              "serverId": "5",
+              "level": "104",
+              "clanId": "2473",
+              "clanRole": "4",
+              "avatarId": "266",
+              "isChatModerator": false,
+              "frameId": 3,
+              "allowPm": "all",
+              "accountId": "5901690685711831320",
+              "clanTitle": "ЕШКИН",
+              "clanIcon": {
+                "flagColor1": 1,
+                "flagColor2": 0,
+                "flagShape": 5,
+                "iconColor": 19,
+                "iconShape": 0
+              }
+            },
+            "796176": {
+              "id": "796176",
+              "name": "[VD] Леонид",
+              "lastLoginTime": "1553341539",
+              "serverId": "5",
+              "level": "82",
+              "clanId": "2473",
+              "clanRole": "3",
+              "avatarId": "388",
+              "isChatModerator": false,
+              "frameId": 3,
+              "allowPm": "all",
+              "clanTitle": "ЕШКИН",
+              "clanIcon": {
+                "flagColor1": 1,
+                "flagColor2": 0,
+                "flagShape": 5,
+                "iconColor": 19,
+                "iconShape": 0
+              }
+            }
+          }
+        }
+      }
+    }
+  ]
+}

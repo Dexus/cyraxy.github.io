@@ -1,0 +1,183 @@
+{
+ "response": [
+    {
+      "id": 1,
+      "stars": 0,
+      "triesSpent": 0,
+      "resetToday": 0
+    }
+  ],
+"heroes":{
+  "1": {
+    "id": 1,
+    "xp": 0,
+    "level": 1,
+    "color": 1,
+    "slots": [
+      -1,
+      -1,
+      -1,
+      -1,
+      -1,
+      -1
+    ],
+    "skills": {
+    },
+    "star": 1,
+    "runes": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "skins": {},
+    "currentSkin": 0,
+    "titanGiftLevel": 0,
+    "titanCoinsSpent": 0,
+    "artifacts": [
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      },
+      {
+        "level": 1,
+        "star": 0
+      }
+    ],
+    "scale": 1
+  }
+},
+
+"boss":[
+         {
+            "id": 10,
+            "bossLevel": 17,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "10": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          },
+         {
+            "id": 11,
+            "bossLevel": 11,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "9": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          },
+          {
+            "id": 12,
+            "bossLevel": 15,
+            "chestNum": 2,
+            "chestId": 2,
+            "lastChestReward": {
+              "coin": {
+                "4": 100
+              }
+            },
+            "chests": [
+              {
+                "coin": {
+                  "8": 50
+                }
+              },
+              {
+                "coin": {
+                  "4": 100
+                }
+              }
+            ],
+            "cost": {
+              "starmoney": "90"
+            },
+            "mayRaid": false
+          }
+],
+"titans":{
+	"4000": {
+            "id": 4000,
+            "xp": 16970,
+            "level": 64,
+            "star": 5,
+            "skills": {
+            },
+            "power": 0,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8,
+			"skins":{}
+          }
+},
+"totems": {
+          "water": {
+            "id": 4001,
+            "level": 1,
+            "star": 0
+          },
+          "earth": {
+            "id": 4003,
+            "level": 1,
+            "star": 0
+          },
+          "fire": {
+            "id": 4002,
+            "level": 1,
+            "star": 0
+          }
+	}
+}

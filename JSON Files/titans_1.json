@@ -1,0 +1,305 @@
+{
+          "4000": {
+            "id": 4000,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4001": 1
+            },
+            "power": 19047,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4001": {
+            "id": 4001,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4003": 1
+            },
+            "power": 14406,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4002": {
+            "id": 4002,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4005": 1
+            },
+            "power": 13565,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+		    "4003": {
+            "id": 4003,
+            "xp": 0,
+            "level": 1,
+            "star": 3,
+            "skills": {
+              "4007": 1,
+              "4008": 1
+            },
+            "power": 13565,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4010": {
+            "id": 4010,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4010": 1
+            },
+            "power": 13302,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4011": {
+            "id": 4011,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4012": 1
+            },
+            "power": 12773,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4012": {
+            "id": 4012,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4014": 1
+            },
+            "power": 12547,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+		    "4013": {
+            "id": 4013,
+            "xp": 0,
+            "level": 1,
+            "star": 3,
+            "skills": {
+              "4016": 1,
+              "4017": 1
+            },
+            "power": 12547,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4020": {
+            "id": 4020,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4019": 1
+            },
+            "power": 12272,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4021": {
+            "id": 4021,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4021": 1
+            },
+            "power": 14468,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4022": {
+            "id": 4022,
+            "xp": 0,
+            "level": 1,
+            "star": 1,
+            "skills": {
+              "4023": 1
+            },
+            "power": 10235,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          },
+          "4023": {
+            "id": 4023,
+            "xp": 0,
+            "level": 1,
+            "star": 3,
+            "skills": {
+              "4025": 1,
+              "4026": 1
+            },
+            "power": 14884,
+            "artifacts": [
+              {
+                "level": 1,
+                "star": 0
+              },
+              {
+                "level": 0,
+                "star": 0
+              },
+              {
+                "level": 1,
+                "star": 0
+              }
+            ],
+            "scale": 0.8
+          }
+        }
