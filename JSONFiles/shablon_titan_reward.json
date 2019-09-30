@@ -1,0 +1,18 @@
+{
+        "response": {
+          "dungeonActivity": 5113,
+          "rewards": [
+            {
+              "fragmentTitan": {
+                "4011": 5
+              }
+            },
+			{
+              "titanCard": {
+                "4021": 30
+              }
+            }
+          ],
+          "starmoneySpent": 0
+        }
+      }
