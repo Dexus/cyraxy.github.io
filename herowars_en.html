@@ -1,4 +1,3 @@
-
 <html>
 <head>
 <meta charset="UTF-8" />
@@ -6,11 +5,11 @@
 
 
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-	<title>Hero Wars online game</title>
+	<title>Хроники Хаоса | Ролевая онлайн игра</title>
 	<meta name="description" content="Эпическая фэнтезийная MMORPG. Качай десятки героев. Бросай вызов сотням боссов. Откликнись на зов Доминиона и возглавь целую армию!"/>
-	<link rel="shortcut icon" href="/i/favicon-16x16.png" />
-	<link rel="icon" type="image/png" sizes="16x16" href="/i/favicon-16x16.png" />
-	<link rel="icon" type="image/png" sizes="32x32" href="/i/favicon-32x32.png" />
+	<link rel="shortcut icon" href="site_style/favicon-16x16.png" />
+	<link rel="icon" type="image/png" sizes="16x16" href="site_style/favicon-16x16.png" />
+	<link rel="icon" type="image/png" sizes="32x32" href="site_style/favicon-32x32.png" />
 	<link rel="apple-touch-icon" sizes="60x60" href="/i/apple-touch-icon-60x60.png" />
 	<link rel="apple-touch-icon" sizes="120x120" href="/i/apple-touch-icon-120x120.png" />
 	<link rel="apple-touch-icon" sizes="180x180" href="/i/apple-touch-icon-180x180.png" />
@@ -50,22 +49,39 @@
 
 </head>
 
-<body oncontextmenu="return false;" class="body frame_page bg_color_0  bg--heroes mode_game">
-		<span style="font-size:20px;color:white">
+<body oncontextmenu="return true;" class="body frame_page bg_color_0  bg--heroes mode_game">
+	<span style="font-size:20px;color:white">
 	<input id="same" type="checkbox"> <label for="same" style="cursor:pointer">Select same heroes</label>
-	<input id="maxed" type="checkbox"><label for="maxed" style="cursor:pointer">Heroes with max power</label>
+	<input id="maxed" type="checkbox"><label for="maxed"style="cursor:pointer">Maxed heroes in campaign and outland</label>
+	<!--<hr>
+	Артефакты героев:
+	<select id="art_hero">
+	<option id="art_1">+1  ур. за клик </option>
+	<option id="art_25">+25 ур. за клик </option>
+	<option id="art_50">+50 ур. за клик </option>
+	<option id="art_100">+100 ур. за клик </option>
+	</select>
+	
+	Артефакты титанов:
+	<select id="art_titans">
+	<option id="art_1">+1  ур. за клик </option>
+	<option id="art_25">+20 ур. за клик </option>
+	<option id="art_25">+40 ур. за клик </option>
+	<option id="art_50">+60 ур. за клик </option>
+	<option id="art_50">+80 ур. за клик </option>
+	<option id="art_100">+120 ур. за клик </option>
+	</select>-->
 	</span>
-
 
 	<main class="main">
 
-		<div class="center">
+		<div class="center" >
 
 			<div id="flash-wrapper">
 				<div id="flash-content">
 					<div class="flash-update-bg">
 						<div class="jshaxe-content-text">
-							Loading...						</div>
+							Загрузка...						</div>
 					</div>
 				</div>
 			</div>
@@ -103,16 +119,16 @@
 
 	</script>
 	
-	
-	
-	
-	<script src="heroes_0429_release_en.js" onerror="NXJsLoadError()"  type="text/javascript"></script>
+
+	<script src="heroes_0429_release.js" onerror="NXJsLoadError()"  type="text/javascript"></script>
 	<script type="text/javascript">
 		if (window.lime) {
 			haxeDom.innerHTML = '';
 			haxeDom.style.visibility = 'visible';
+			//haxeDom.style.width = document.body.clientWidth;
 			haxeDom.style.width = '1000px';
 			haxeDom.style.height = '640px';
+			//haxeDom.style.height = document.body.clientHeight;
 			lime.embed('heroeshx', 'flash-content', 1000, 640, {parameters: {} });
 		}
 	</script>
