@@ -1,0 +1,28 @@
+{
+        "response": {
+          "chains": {
+            "1": 9999,
+            "2": 9999,
+            "3": 9999,
+            "4": 9999,
+            "5": 9999,
+            "6": 9999,
+            "7": 9999,
+            "8": 9999,
+            "9": 9999,
+            "10": 0,
+            "11": 7,
+            "13": 9999,
+            "14": 9999,
+            "15": 0,
+            "16": 0
+          },
+          "params": {
+            "heroName1": "LIB_HERO_NAME_2",
+            "heroIcon1": "hero2",
+            "heroName2": "LIB_HERO_NAME_20",
+            "tutorialBattleEndTime": "5.46",
+            "heroIcon2": "hero20"
+          }
+        }
+      }
