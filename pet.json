@@ -2,8 +2,8 @@
         "response": [
           {
             "id": 6002,
-            "color": 4,
-            "star": 6,
+            "color": 1,
+            "star": 4,
             "xp": 8571,
             "level": 61,
             "slots": [
@@ -19,8 +19,8 @@
           },
           {
             "id": 6005,
-            "color": 4,
-            "star": 6,
+            "color": 1,
+            "star": 4,
             "xp": 1597,
             "level": 46,
             "slots": [
@@ -37,8 +37,8 @@
           },
           {
             "id": 6001,
-            "color": 4,
-            "star": 6,
+            "color": 1,
+            "star": 4,
             "xp": 50,
             "level": 10,
             "slots": [],
@@ -52,8 +52,8 @@
           },
           {
             "id": 6000,
-            "color": 4,
-            "star": 6,
+            "color": 1,
+            "star": 4,
             "xp": 0,
             "level": 1,
             "slots": [],
@@ -67,8 +67,8 @@
           },
           {
             "id": 6004,
-            "color": 4,
-            "star": 6,
+            "color": 1,
+            "star": 4,
             "xp": 0,
             "level": 1,
             "slots": [],
@@ -83,7 +83,7 @@
           {
             "id": 6003,
             "color": 1,
-            "star": 6,
+            "star": 1,
             "xp": 0,
             "level": 1,
             "slots": [],
@@ -96,4 +96,5 @@
             "name": null
           }
         ]
+      }
     }
