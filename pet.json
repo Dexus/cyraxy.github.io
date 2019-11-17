@@ -2,7 +2,7 @@
         "response": [
           {
             "id": 6002,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 8571,
             "level": 61,
@@ -19,7 +19,7 @@
           },
           {
             "id": 6005,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 1597,
             "level": 46,
@@ -37,7 +37,7 @@
           },
           {
             "id": 6001,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 50,
             "level": 10,
@@ -52,7 +52,7 @@
           },
           {
             "id": 6000,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 0,
             "level": 1,
@@ -67,7 +67,7 @@
           },
           {
             "id": 6004,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 0,
             "level": 1,
@@ -82,7 +82,7 @@
           },
           {
             "id": 6003,
-            "color": 1,
+            "color": 8,
             "star": 6,
             "xp": 0,
             "level": 1,
