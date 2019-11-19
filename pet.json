@@ -1,0 +1,99 @@
+{
+        "response": [
+          {
+            "id": 6002,
+            "color": 8,
+            "star": 6,
+            "xp": 8571,
+            "level": 61,
+            "slots": [
+              5
+            ],
+            "skills": {
+              "6010": 61
+            },
+            "power": 1220,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          },
+          {
+            "id": 6005,
+            "color": 8,
+            "star": 6,
+            "xp": 1597,
+            "level": 46,
+            "slots": [
+              5,
+              5
+            ],
+            "skills": {
+              "6025": 46
+            },
+            "power": 920,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          },
+          {
+            "id": 6001,
+            "color": 8,
+            "star": 6,
+            "xp": 50,
+            "level": 10,
+            "slots": [],
+            "skills": {
+              "6005": 10
+            },
+            "power": 200,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          },
+          {
+            "id": 6000,
+            "color": 8,
+            "star": 6,
+            "xp": 0,
+            "level": 1,
+            "slots": [],
+            "skills": {
+              "6000": 1
+            },
+            "power": 20,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          },
+          {
+            "id": 6004,
+            "color": 8,
+            "star": 6,
+            "xp": 0,
+            "level": 1,
+            "slots": [],
+            "skills": {
+              "6020": 1
+            },
+            "power": 20,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          },
+          {
+            "id": 6003,
+            "color": 8,
+            "star": 6,
+            "xp": 0,
+            "level": 1,
+            "slots": [],
+            "skills": {
+              "6015": 1
+            },
+            "power": 20,
+            "type": "pet",
+            "perks": null,
+            "name": null
+          }
+        ]
+    }
